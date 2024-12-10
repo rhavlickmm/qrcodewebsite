@@ -1,6 +1,4 @@
-{
-
-	companies: [
+[
                 {
                     id: 1,
                     sortname: 'Bayesline',
@@ -351,6 +349,6 @@
                     website: 'https://www.ctgt.ai/',
                     ycpage: 'https://www.ycombinator.com/companies/ctgt',
                     batch: 'F24'
-                },
-            ]
-}
+                }
+            
+]
