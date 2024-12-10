@@ -1,0 +1,356 @@
+{
+
+	companies: [
+                {
+                    id: 1,
+                    sortname: 'Bayesline',
+                    name: 'Bayesline',
+                    description: 'Highly customizable and blazingly fast analytics for asset managers',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/8a34bad8ff76fdef00535145a04bd76a11f215b1.png',
+                    website: 'https://bayesline.com/',
+                    ycpage: 'https://www.ycombinator.com/companies/bayesline',
+                    batch: 'S24'
+                },
+                {
+                    id: 2,
+                    sortname: 'Kontigo',
+                    name: 'Kontigo',
+                    description: 'USDC-Smart Neobank for Latinos',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/29ea469fed3c60e9950eccadce6c5b7f8fcd6569.png',
+                    website: 'https://kontigo.lat/',
+                    ycpage: 'https://www.ycombinator.com/companies/kontigo',
+                    batch: 'S24'
+                },
+                {
+                    id: 3,
+                    sortname: 'Hestus, Inc.',
+                    name: 'Hestus, Inc.',
+                    description: 'An AI-powered CAD software',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/f2dcfde1bafa60796981ae7624ad15e71586a290.png',
+                    website: 'https://www.hestus.co/',
+                    ycpage: 'https://www.ycombinator.com/companies/hestus-inc',
+                    batch: 'S24'
+                },
+                {
+                    id: 4,
+                    sortname: 'Weave Robotics',
+                    name: 'Weave Robotics',
+                    description: 'Personal robots for the home--that ship in 2025',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/fa1669fc77240d5b136ed7eb12c167327e93c7e8.png',
+                    website: 'https://www.weaverobots.com/',
+                    ycpage: 'https://www.ycombinator.com/companies/weave-robotics',
+                    batch: 'S24'
+                },
+                {
+                    id: 5,
+                    sortname: 'Usul',
+                    name: 'Usul',
+                    description: 'Win Defense Contracts with AI',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/1b29fc94915cb31662bedfaa8eda5297b0c9e5bb.png',
+                    website: 'https://www.usul.co/',
+                    ycpage: 'https://www.ycombinator.com/companies/usul',
+                    batch: 'S24'
+                },
+                {
+                    id: 6,
+                    sortname: 'Entangl',
+                    name: 'Entangl',
+                    description: 'Automating hardware design end-to-end without errors',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/0a2d6e23cb178ee58476a31290945343d8a31a48.png',
+                    website: 'https://www.entangl.ai/',
+                    ycpage: 'https://www.ycombinator.com/companies/entangl',
+                    batch: 'S24'
+                },
+                {
+                    id: 7,
+                    sortname: 'DeepSim, Inc.',
+                    name: 'DeepSim, Inc.',
+                    description: 'An AI physics simulator for AI chip design',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/4d2d742eff5354c7ab2613bb9ba4ba6a64e707b5.png',
+                    website: 'https://www.deepsim.io/',
+                    ycpage: 'https://www.ycombinator.com/companies/deepsim-inc',
+                    batch: 'S24'
+                },
+                {
+                    id: 8,
+                    sortname: 'Ares Industries',
+                    name: 'Ares Industries',
+                    description: 'Building low-cost cruise missiles',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/c1bb6e6d5b88de1027f26cd87fddd83304d2d58e.png',
+                    website: 'https://aresindustries.com/',
+                    ycpage: 'https://www.ycombinator.com/companies/ares-industries',
+                    batch: 'S24'
+                },
+                {
+                    id: 9,
+                    sortname: 'Ligo Biosciences',
+                    name: 'Ligo Biosciences',
+                    description: 'AI designed enzymes for the chemical industry',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/bd381079ddb420940e9b57512009e6b5bc73e27a.png',
+                    website: 'https://www.ligo.bio/',
+                    ycpage: 'https://www.ycombinator.com/companies/ligo-biosciences',
+                    batch: 'S24'
+                },
+                {
+                    id: 10,
+                    sortname: 'Asterisk',
+                    name: 'Asterisk',
+                    description: 'AI Hacker for Codebases',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/d9d0d2f6b82ad16085947b8f50c8befcd9a6f3f7.png',
+                    website: 'https://asterisk.so/',
+                    ycpage: 'https://www.ycombinator.com/companies/asterisk',
+                    batch: 'S24'
+                },
+                {
+                    id: 11,
+                    sortname: 'Conductor Quantum',
+                    name: 'Conductor Quantum',
+                    description: 'Quantum computers on silicon chips using AI',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/6f87b0dddb05a92646b51780f21648d12f3019bf.png',
+                    website: 'https://www.conductorquantum.com/',
+                    ycpage: 'https://www.ycombinator.com/companies/conductor-quantum',
+                    batch: 'S24'
+                },
+                {
+                    id: 12,
+                    sortname: 'ZeroPath',
+                    name: 'ZeroPath',
+                    description: 'Automatically find and fix your software vulnerabilities',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/fd70ee2d072b5f54e3fd3fc0e2531e49708b3fa7.png',
+                    website: 'https://zeropath.com/',
+                    ycpage: 'https://www.ycombinator.com/companies/zeropath',
+                    batch: 'S24'
+                },
+                {
+                    id: 13,
+                    sortname: 'Neuralize',
+                    name: 'Neuralize',
+                    description: 'The On-Device AI Deployment Platform',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/45f0e7293aa7c9b30e23484958f756fccacc81c0.png',
+                    website: 'https://runlocal.ai/',
+                    ycpage: 'https://www.ycombinator.com/companies/neuralize',
+                    batch: 'S24'
+                },
+                {
+                    id: 14,
+                    sortname: 'ProhostAI',
+                    name: 'ProhostAI',
+                    description: 'AI Property Manager for Airbnb & Short-Term Rental Hosts',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/069321145273b85ba7d87787840c61562c041b8f.png',
+                    website: 'https://www.prohost.ai/',
+                    ycpage: 'https://www.ycombinator.com/companies/prohostai',
+                    batch: 'S24'
+                },
+                {
+                    id: 15,
+                    sortname: 'Capitol AI',
+                    name: 'Capitol AI',
+                    description: 'Capitol is a custom perplexity for every website in the world',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/d21edd589862cd64f905545df119c53426538c8d.png',
+                    website: 'https://www.capitol.ai/',
+                    ycpage: 'https://www.ycombinator.com/companies/capitol-ai',
+                    batch: 'S24'
+                },
+                {
+                    id: 16,
+                    sortname: 'Ultra',
+                    name: 'Ultra',
+                    description: 'Robots to package billions of e-commerce orders in warehouses',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/4e0a45197c7d56b15f0976e431a519c2b35929c0.png',
+                    website: 'https://ultra.tech/',
+                    ycpage: 'https://www.ycombinator.com/companies/ultra',
+                    batch: 'S24'
+                },
+                {
+                    id: 17,
+                    sortname: 'DigitalCarbon',
+                    name: 'DigitalCarbon',
+                    description: 'Transform Images And Videos Into Immersive 3D With AI',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/5cd96189d0726eb13cddf2279ecddbb8f1d37895.png',
+                    website: 'https://www.digitalcarbon.ai/',
+                    ycpage: 'https://www.ycombinator.com/companies/digitalcarbon',
+                    batch: 'S24'
+                },
+                {
+                    id: 18,
+                    sortname: 'TaxGPT',
+                    name: 'TaxGPT',
+                    description: 'AI Co-Pilot for Accountants',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/925a4d89b983d4afdeba53e9f6b6672031081f94.png',
+                    website: 'https://www.taxgpt.com/',
+                    ycpage: 'https://www.ycombinator.com/companies/taxgpt',
+                    batch: 'S24'
+                },
+                {
+                    id: 19,
+                    sortname: 'Exa Laboratories',
+                    name: 'Exa Laboratories',
+                    description: 'Energy efficient chips for AI',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/5a856b1c6b22cb0117e3f843abca70d239c77524.png',
+                    website: 'https://exalaboratories.com/',
+                    ycpage: 'https://www.ycombinator.com/companies/exa-laboratories',
+                    batch: 'S24'
+                },
+                {
+                    id: 20,
+                    sortname: 'Kopra Bio',
+                    name: 'Kopra Bio',
+                    description: 'Genetically engineered viruses that teach your immune system to kill cancer',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/acdb0c2a3124d9e5717a63d0231af9b6f7447919.png',
+                    website: 'https://kopra.bio/',
+                    ycpage: 'https://www.ycombinator.com/companies/kopra-bio',
+                    batch: 'S24'
+                },
+                {
+                    id: 21,
+                    sortname: 'Central',
+                    name: 'Central',
+                    description: 'Eliminating business bullshit: payroll, benefits, compliance, etc',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/c0913d1e9d9580abc891cabd8dcf7bc5c217d32e.png',
+                    website: 'https://centralhq.com/',
+                    ycpage: 'https://www.ycombinator.com/companies/central',
+                    batch: 'S24'
+                },
+                {
+                    id: 22,
+                    sortname: 'Angstrom AI',
+                    name: 'Ångström AI',
+                    description: 'Gen AI molecular simulations that reproduce wetlab results',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/d66ae246dae1ca35e8275f53019cac07d3259c99.png',
+                    website: 'https://www.angstrom-ai.com/',
+                    ycpage: 'https://www.ycombinator.com/companies/angstrom-ai',
+                    batch: 'S24'
+                },
+                {
+                    id: 23,
+                    sortname: 'Roundabout Technologies',
+                    name: 'Roundabout Technologies',
+                    description: 'AI-powered traffic lights',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/4966bb2facc9c59279d1337270fbdb9d4a76bb93.png',
+                    website: 'https://roundabout.tech/',
+                    ycpage: 'https://www.ycombinator.com/companies/roundabout-technologies',
+                    batch: 'F24'
+                },
+                {
+                    id: 24,
+                    sortname: 'Cerulion',
+                    name: 'Cerulion',
+                    description: 'Open source operating system for robots',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/336383ad58869871ce591b4e1b31dd374319435c.png',
+                    website: 'https://www.cerulion.com/',
+                    ycpage: 'https://www.ycombinator.com/companies/cerulion',
+                    batch: 'S24'
+                },
+                {
+                    id: 25,
+                    sortname: 'Cosine',
+                    name: 'Cosine',
+                    description: 'Your AI Co-developer',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/4e00745e7a3c3ee63862572e35ef2d37f8197af5.png',
+                    website: 'http://www.cosine.sh/',
+                    ycpage: 'https://www.ycombinator.com/companies/cosine',
+                    batch: 'W23'
+                },
+                {
+                    id: 27,
+                    sortname: 'Lune AI',
+                    name: 'Lune AI',
+                    description: 'Lune AI - Better LLMs for code and technical tasks',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/dfc91afadd07f2a2caade9c12e1a24853766b16b.png',
+                    website: 'https://www.lune.dev/',
+                    ycpage: 'https://www.ycombinator.com/companies/lune-ai',
+                    batch: 'F24'
+                },
+
+                {
+                    id: 28,
+                    sortname: 'HumanLayer',
+                    name: 'HumanLayer',
+                    description: 'Human-in-the-Loop for AI Agents',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/a7da261b740a4ae0fbccdb7818277d3243f8a1c8.png',
+                    website: 'https://humanlayer.dev/',
+                    ycpage: 'https://www.ycombinator.com/companies/humanlayer',
+                    batch: 'F24'
+                },
+                {
+                    id: 29,
+                    sortname: 'Revi',
+                    name: 'Revi',
+                    description: 'AI-enabled M&A deal origination',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/5c5e4db7724db9cc411212c0a36b0c2b276b67e7.png',
+                    website: 'https://www.revi.ai/',
+                    ycpage: 'https://www.ycombinator.com/companies/revi',
+                    batch: 'F24'
+                },
+                {
+                    id: 30,
+                    sortname: 'PearAI',
+                    name: 'PearAI',
+                    description: 'VSCode For The New Age of AI',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/dfc66990c87e4d8f300d62eedff5460f882406da.png',
+                    website: 'https://trypear.ai/',
+                    ycpage: 'https://www.ycombinator.com/companies/pearai',
+                    batch: 'F24'
+                },
+                {
+                    id: 31,
+                    sortname: 'Alex',
+                    name: 'Alex',
+                    description: 'The Cursor for Xcode',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/211bbe719ecb6e8800789a12c674df98b2a1fb49.png',
+                    website: 'https://alexcodes.app/',
+                    ycpage: 'https://www.ycombinator.com/companies/alex',
+                    batch: 'F24'
+                },
+                {
+                    id: 32,
+                    sortname: 'Keye',
+                    name: 'Keye',
+                    description: 'The Smartest Private Equity Investor',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/90506160477f970492b1093950c729f17eeb2192.png',
+                    website: 'https://www.keye.co/',
+                    ycpage: 'https://www.ycombinator.com/companies/keye',
+                    batch: 'F24'
+                },
+                {
+                    id: 33,
+                    sortname: 'Ember Copilot',
+                    name: 'Ember Copilot',
+                    description: 'The only medical scribe that reduces claim denials by 55%',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/cc4c02e697fb21ae99bab2ac805d924074318bc8.png',
+                    website: 'https://www.embercopilot.ai/',
+                    ycpage: 'https://www.ycombinator.com/companies/ember-copilot',
+                    batch: 'F24'
+                },
+                {
+                    id: 34,
+                    sortname: 'Asha Health',
+                    name: 'Asha Health',
+                    description: 'We help medical practices launch their own AI clinic',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/f9b207807766ddb54c949c58111b8ebf208a2c53.png',
+                    website: 'https://asha.health/',
+                    ycpage: 'https://www.ycombinator.com/companies/asha-health',
+                    batch: 'F24'
+                },
+                {
+                    id: 35,
+                    sortname: 'Innate',
+                    name: 'Innate',
+                    description: 'Teachable general-purpose robots',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/5874ae5d91c6dc5a32065be587bcdaa98b58d82d.png',
+                    website: 'https://innate.bot/',
+                    ycpage: 'https://www.ycombinator.com/companies/innate',
+                    batch: 'F24'
+                },
+                {
+                    id: 36,
+                    sortname: 'CTGT',
+                    name: 'CTGT',
+                    description: 'Entirely New AI Stack: Efficient and Safe Alternative to LLM Ecosystem',
+                    logo: 'https://bookface-images.s3.amazonaws.com/small_logos/70be263b066d6de8782aafcee6461d75b56a008f.png',
+                    website: 'https://www.ctgt.ai/',
+                    ycpage: 'https://www.ycombinator.com/companies/ctgt',
+                    batch: 'F24'
+                },
+            ]
+}
