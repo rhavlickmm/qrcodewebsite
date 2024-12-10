@@ -349,6 +349,16 @@
         "website": "https://www.ctgt.ai/",
         "ycpage": "https://www.ycombinator.com/companies/ctgt",
         "batch": "F24"
+    },
+    {
+        "id": 37,
+        "sortname": "New Company",
+        "name": "New Company",
+        "description": "New Company Description",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/70be263b066d6de8782aafcee6461d75b56a008f.png",
+        "website": "https://www.multimodal.ventures/",
+        "ycpage": "https://www.ycombinator.com/companies/mm",
+        "batch": "W25"
     }
 
 ]
