@@ -121,12 +121,12 @@
     },
     {
         "id": 13,
-        "sortname": "Neuralize",
-        "name": "Neuralize",
+        "sortname": "RunLocal",
+        "name": "RunLocal",
         "description": "The On-Device AI Deployment Platform",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/45f0e7293aa7c9b30e23484958f756fccacc81c0.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4f47cbbc26af6f2d783af0166e54e51212101bcc.png",
         "website": "https://runlocal.ai/",
-        "ycpage": "https://www.ycombinator.com/companies/neuralize",
+        "ycpage": "https://www.ycombinator.com/companies/runlocal",
         "batch": "S24"
     },
     {
