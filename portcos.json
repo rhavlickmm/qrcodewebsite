@@ -369,6 +369,26 @@
         "website": "https://www.exintherapeutics.com/",
         "ycpage": "https://www.ycombinator.com/companies/exin-therapeutics",
         "batch": "W25"
+    },
+    {
+        "id": 39,
+        "sortname": "Wand",
+        "name": "Wand",
+        "description": "Enterprise AI done right.",
+        "logo": "https://wand.ai/wp-content/uploads/Logo-1.svg#86",
+        "website": "https://www.rocketable.com/",
+        "ycpage": "https://www.rocketable.com/",
+        "batch": "Non YC"
+    },
+    {
+        "id": 40,
+        "sortname": "GC AI",
+        "name": "GC AI",
+        "description": "The best AI for legal teams.",
+        "logo": "https://framerusercontent.com/images/rsgpCcVKvnrbZ8PcjBmqq1y4nc.png?scale-down-to=512",
+        "website": "https://getgc.ai/",
+        "ycpage": "https://getgc.ai/",
+        "batch": "Non YC"
     }
 
     
