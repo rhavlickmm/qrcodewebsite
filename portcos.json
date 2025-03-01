@@ -349,6 +349,27 @@
         "website": "https://www.ctgt.ai/",
         "ycpage": "https://www.ycombinator.com/companies/ctgt",
         "batch": "F24"
+    },
+    {
+        "id": 37,
+        "sortname": "Rocketable",
+        "name": "Rocketable",
+        "description": "The AI maximalist software holding company",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bc12cf4638585675745dadeea5e4a62aec1543cb.png",
+        "website": "https://www.rocketable.com/",
+        "ycpage": "https://www.ycombinator.com/companies/rocketable",
+        "batch": "W25"
+    },
+    {
+        "id": 38,
+        "sortname": "Exin Therapeutics",
+        "name": "Exin Therapeutics",
+        "description": "Precision genetic therapies targeting neural activity across disorders",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/61d9c34b51f9b98cbfdb92bc0014e3569c29b36c.png",
+        "website": "https://www.exintherapeutics.com/",
+        "ycpage": "https://www.ycombinator.com/companies/exin-therapeutics",
+        "batch": "W25"
     }
 
+    
 ]
