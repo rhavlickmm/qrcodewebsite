@@ -389,6 +389,26 @@
         "website": "https://getgc.ai/",
         "ycpage": "https://getgc.ai/",
         "batch": "Non YC"
+    },
+    {
+        "id": 41,
+        "sortname": "Artificial Societies",
+        "name": "Artificial Societies",
+        "description": "We use AI to simulate large groups of people and how they interact",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0bd6ba915d4b288901694ddd2ae32010844f2ff6.png",
+        "website": "https://societies.io/",
+        "ycpage": "https://www.ycombinator.com/companies/artificial-societies",
+        "batch": "W25"
+    },
+    {
+        "id": 42,
+        "sortname": "Proception Inc",
+        "name": "Proception Inc",
+        "description": "Making humanoids dexterous enough to thread a needle",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/044a61892de93a1b3b4e729e7a83401954eae201.png",
+        "website": "https://proception.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/proception-inc",
+        "batch": "W25"
     }
 
     
