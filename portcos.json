@@ -409,6 +409,26 @@
         "website": "https://proception.ai/",
         "ycpage": "https://www.ycombinator.com/companies/proception-inc",
         "batch": "W25"
+    },
+    {
+        "id": 43,
+        "sortname": "Pave Robotics",
+        "name": "Pave Robotics",
+        "description": "Robots that repair roads",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/928589de1c658eafaba5d1b3f60eee04d58ffa36.png",
+        "website": "https://pave-robotics.com/",
+        "ycpage": "https://www.ycombinator.com/companies/pave-robotics",
+        "batch": "W25"
+    },
+    {
+        "id": 44,
+        "sortname": "Misprint",
+        "name": "Misprint",
+        "description": "Misprint is a data-driven marketplace for graded collectibles",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8a1c3f9a7b61db8b3dcf3a8453340dd7f22bb529.png",
+        "website": "https://www.misprint.com/",
+        "ycpage": "https://www.ycombinator.com/companies/misprint",
+        "batch": "W25"
     }
 
     
