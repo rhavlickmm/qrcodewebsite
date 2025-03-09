@@ -429,6 +429,36 @@
         "website": "https://www.misprint.com/",
         "ycpage": "https://www.ycombinator.com/companies/misprint",
         "batch": "W25"
+    },
+    {
+        "id": 45,
+        "sortname": "Conntour",
+        "name": "Conntour",
+        "description": "AI to monitor thousands of security cameras.",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e13662a45aaad5a75d32c886f95fbfe0a3d0af5a.png",
+        "website": "https://www.conntour.com/",
+        "ycpage": "https://www.ycombinator.com/companies/conntour",
+        "batch": "W25"
+    },
+    {
+        "id": 46,
+        "sortname": "Inversion Semiconductor",
+        "name": "Inversion Semiconductor",
+        "description": "Manufacturing the most powerful chips, 15x faster",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f8f65cc20ede5375e5fb2b79c8dcf6d37b04f4c2.png",
+        "website": "https://www.inversionsemi.com/",
+        "ycpage": "https://www.ycombinator.com/companies/inversion-semiconductor",
+        "batch": "W25"
+    },
+    {
+        "id": 47,
+        "sortname": "A1Base",
+        "name": "A1Base",
+        "description": "Twilio for AI Agents",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/73b9a429892a10e92d901a7d903dc0dbcd131ee5.png",
+        "website": "https://www.a1base.com/",
+        "ycpage": "https://www.ycombinator.com/companies/a1base",
+        "batch": "W25"
     }
 
     
