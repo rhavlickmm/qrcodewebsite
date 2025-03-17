@@ -482,16 +482,6 @@
     },
     {
         "id": 50,
-        "sortname": "Inversion Semiconductor",
-        "name": "Inversion Semiconductor",
-        "description": "Manufacturing the most powerful chips, 15x faster",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f8f65cc20ede5375e5fb2b79c8dcf6d37b04f4c2.png",
-        "website": "https://www.inversionsemi.com/",
-        "ycpage": "https://www.ycombinator.com/companies/inversion-semiconductor",
-        "batch": "W25"
-    },
-    {
-        "id": 51,
         "sortname": "PAX Markets",
         "name": "PAX Markets",
         "description": "Crypto exchange on a chip: faster and smaller than a datacenter.",
@@ -501,7 +491,7 @@
         "batch": "W25"
     },
     {
-        "id": 52,
+        "id": 51,
         "sortname": "Mentra",
         "name": "Mentra",
         "description": "Building the open source smart glasses operating system.",
