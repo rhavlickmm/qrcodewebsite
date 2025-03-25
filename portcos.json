@@ -295,7 +295,7 @@
         "website": "https://humanlayer.dev/",
         "ycpage": "https://www.ycombinator.com/companies/humanlayer",
         "batch": "F24",
-        "showlogobackground": false
+        "showlogobackground": true
     },
     {
         "id": 29,
@@ -427,7 +427,7 @@
         "website": "https://getgc.ai/",
         "ycpage": "https://getgc.ai/",
         "batch": "Non YC",
-        "showlogobackground": false
+        "showlogobackground": true
     },
     {
         "id": 41,
