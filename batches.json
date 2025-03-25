@@ -1,0 +1,22 @@
+[
+	{
+		"batch": "W24",
+		"title": "W24",
+		"sortorder": 1
+	},
+	{
+		"batch": "F24",
+		"title": "F24",
+		"sortorder": 2
+	},
+	{
+		"batch": "S24",
+		"title": "S24",
+		"sortorder": 3
+	},
+	{
+		"batch": "Non YC",
+		"title": "Non YC Companies",
+		"sortorder": 4
+	}
+]
