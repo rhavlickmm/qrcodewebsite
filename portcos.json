@@ -7,7 +7,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8a34bad8ff76fdef00535145a04bd76a11f215b1.png",
         "website": "https://bayesline.com/",
         "ycpage": "https://www.ycombinator.com/companies/bayesline",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": true
     },
     {
         "id": 2,
@@ -17,7 +18,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/29ea469fed3c60e9950eccadce6c5b7f8fcd6569.png",
         "website": "https://kontigo.lat/",
         "ycpage": "https://www.ycombinator.com/companies/kontigo",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 3,
@@ -27,7 +29,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f2dcfde1bafa60796981ae7624ad15e71586a290.png",
         "website": "https://www.hestus.co/",
         "ycpage": "https://www.ycombinator.com/companies/hestus-inc",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 4,
@@ -37,7 +40,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fa1669fc77240d5b136ed7eb12c167327e93c7e8.png",
         "website": "https://www.weaverobots.com/",
         "ycpage": "https://www.ycombinator.com/companies/weave-robotics",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 5,
@@ -47,7 +51,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1b29fc94915cb31662bedfaa8eda5297b0c9e5bb.png",
         "website": "https://www.usul.co/",
         "ycpage": "https://www.ycombinator.com/companies/usul",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 6,
@@ -57,7 +62,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0a2d6e23cb178ee58476a31290945343d8a31a48.png",
         "website": "https://www.entangl.ai/",
         "ycpage": "https://www.ycombinator.com/companies/entangl",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 7,
@@ -67,7 +73,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4d2d742eff5354c7ab2613bb9ba4ba6a64e707b5.png",
         "website": "https://www.deepsim.io/",
         "ycpage": "https://www.ycombinator.com/companies/deepsim-inc",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 8,
@@ -77,7 +84,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c1bb6e6d5b88de1027f26cd87fddd83304d2d58e.png",
         "website": "https://aresindustries.com/",
         "ycpage": "https://www.ycombinator.com/companies/ares-industries",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 9,
@@ -87,7 +95,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bd381079ddb420940e9b57512009e6b5bc73e27a.png",
         "website": "https://www.ligo.bio/",
         "ycpage": "https://www.ycombinator.com/companies/ligo-biosciences",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 10,
@@ -97,7 +106,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d9d0d2f6b82ad16085947b8f50c8befcd9a6f3f7.png",
         "website": "https://asterisk.so/",
         "ycpage": "https://www.ycombinator.com/companies/asterisk",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 11,
@@ -107,7 +117,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6f87b0dddb05a92646b51780f21648d12f3019bf.png",
         "website": "https://www.conductorquantum.com/",
         "ycpage": "https://www.ycombinator.com/companies/conductor-quantum",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 12,
@@ -117,7 +128,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fd70ee2d072b5f54e3fd3fc0e2531e49708b3fa7.png",
         "website": "https://zeropath.com/",
         "ycpage": "https://www.ycombinator.com/companies/zeropath",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 13,
@@ -127,7 +139,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4f47cbbc26af6f2d783af0166e54e51212101bcc.png",
         "website": "https://runlocal.ai/",
         "ycpage": "https://www.ycombinator.com/companies/runlocal",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 14,
@@ -137,7 +150,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/069321145273b85ba7d87787840c61562c041b8f.png",
         "website": "https://www.prohost.ai/",
         "ycpage": "https://www.ycombinator.com/companies/prohostai",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 15,
@@ -147,7 +161,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d21edd589862cd64f905545df119c53426538c8d.png",
         "website": "https://www.capitol.ai/",
         "ycpage": "https://www.ycombinator.com/companies/capitol-ai",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 16,
@@ -157,7 +172,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4e0a45197c7d56b15f0976e431a519c2b35929c0.png",
         "website": "https://ultra.tech/",
         "ycpage": "https://www.ycombinator.com/companies/ultra",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 17,
@@ -167,7 +183,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5cd96189d0726eb13cddf2279ecddbb8f1d37895.png",
         "website": "https://www.digitalcarbon.ai/",
         "ycpage": "https://www.ycombinator.com/companies/digitalcarbon",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 18,
@@ -177,7 +194,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/925a4d89b983d4afdeba53e9f6b6672031081f94.png",
         "website": "https://www.taxgpt.com/",
         "ycpage": "https://www.ycombinator.com/companies/taxgpt",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 19,
@@ -187,7 +205,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c5fd53eea76198c06d20822dbe619ea2c841e00c.png",
         "website": "https://exalaboratories.com/",
         "ycpage": "https://www.ycombinator.com/companies/exa-laboratories",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 20,
@@ -197,7 +216,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/acdb0c2a3124d9e5717a63d0231af9b6f7447919.png",
         "website": "https://kopra.bio/",
         "ycpage": "https://www.ycombinator.com/companies/kopra-bio",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 21,
@@ -207,7 +227,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c0913d1e9d9580abc891cabd8dcf7bc5c217d32e.png",
         "website": "https://centralhq.com/",
         "ycpage": "https://www.ycombinator.com/companies/central",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 22,
@@ -217,7 +238,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d66ae246dae1ca35e8275f53019cac07d3259c99.png",
         "website": "https://www.angstrom-ai.com/",
         "ycpage": "https://www.ycombinator.com/companies/angstrom-ai",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 23,
@@ -227,7 +249,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4966bb2facc9c59279d1337270fbdb9d4a76bb93.png",
         "website": "https://roundabout.tech/",
         "ycpage": "https://www.ycombinator.com/companies/roundabout-technologies",
-        "batch": "F24"
+        "batch": "F24",
+        "showlogobackground": false
     },
     {
         "id": 24,
@@ -237,7 +260,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/336383ad58869871ce591b4e1b31dd374319435c.png",
         "website": "https://www.cerulion.com/",
         "ycpage": "https://www.ycombinator.com/companies/cerulion",
-        "batch": "S24"
+        "batch": "S24",
+        "showlogobackground": false
     },
     {
         "id": 25,
@@ -247,7 +271,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4e00745e7a3c3ee63862572e35ef2d37f8197af5.png",
         "website": "http://www.cosine.sh/",
         "ycpage": "https://www.ycombinator.com/companies/cosine",
-        "batch": "W23"
+        "batch": "W23",
+        "showlogobackground": false
     },
     {
         "id": 27,
@@ -257,7 +282,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dfc91afadd07f2a2caade9c12e1a24853766b16b.png",
         "website": "https://www.lune.dev/",
         "ycpage": "https://www.ycombinator.com/companies/lune-ai",
-        "batch": "F24"
+        "batch": "F24",
+        "showlogobackground": false
     },
 
     {
@@ -268,7 +294,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a7da261b740a4ae0fbccdb7818277d3243f8a1c8.png",
         "website": "https://humanlayer.dev/",
         "ycpage": "https://www.ycombinator.com/companies/humanlayer",
-        "batch": "F24"
+        "batch": "F24",
+        "showlogobackground": false
     },
     {
         "id": 29,
@@ -278,7 +305,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5c5e4db7724db9cc411212c0a36b0c2b276b67e7.png",
         "website": "https://www.revi.ai/",
         "ycpage": "https://www.ycombinator.com/companies/revi",
-        "batch": "F24"
+        "batch": "F24",
+        "showlogobackground": false
     },
     {
         "id": 30,
@@ -288,7 +316,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dfc66990c87e4d8f300d62eedff5460f882406da.png",
         "website": "https://trypear.ai/",
         "ycpage": "https://www.ycombinator.com/companies/pearai",
-        "batch": "F24"
+        "batch": "F24",
+        "showlogobackground": false
     },
     {
         "id": 31,
@@ -298,7 +327,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/211bbe719ecb6e8800789a12c674df98b2a1fb49.png",
         "website": "https://alexcodes.app/",
         "ycpage": "https://www.ycombinator.com/companies/alex",
-        "batch": "F24"
+        "batch": "F24",
+        "showlogobackground": false
     },
     {
         "id": 32,
@@ -308,7 +338,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/90506160477f970492b1093950c729f17eeb2192.png",
         "website": "https://www.keye.co/",
         "ycpage": "https://www.ycombinator.com/companies/keye",
-        "batch": "F24"
+        "batch": "F24",
+        "showlogobackground": false
     },
     {
         "id": 33,
@@ -318,7 +349,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cc4c02e697fb21ae99bab2ac805d924074318bc8.png",
         "website": "https://www.embercopilot.ai/",
         "ycpage": "https://www.ycombinator.com/companies/ember-copilot",
-        "batch": "F24"
+        "batch": "F24",
+        "showlogobackground": false
     },
     {
         "id": 34,
@@ -328,7 +360,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f9b207807766ddb54c949c58111b8ebf208a2c53.png",
         "website": "https://asha.health/",
         "ycpage": "https://www.ycombinator.com/companies/asha-health",
-        "batch": "F24"
+        "batch": "F24",
+        "showlogobackground": false
     },
     {
         "id": 35,
@@ -338,7 +371,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5874ae5d91c6dc5a32065be587bcdaa98b58d82d.png",
         "website": "https://innate.bot/",
         "ycpage": "https://www.ycombinator.com/companies/innate",
-        "batch": "F24"
+        "batch": "F24",
+        "showlogobackground": false
     },
     {
         "id": 36,
@@ -348,7 +382,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/70be263b066d6de8782aafcee6461d75b56a008f.png",
         "website": "https://www.ctgt.ai/",
         "ycpage": "https://www.ycombinator.com/companies/ctgt",
-        "batch": "F24"
+        "batch": "F24",
+        "showlogobackground": false
     },
     {
         "id": 37,
@@ -358,7 +393,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bc12cf4638585675745dadeea5e4a62aec1543cb.png",
         "website": "https://www.rocketable.com/",
         "ycpage": "https://www.ycombinator.com/companies/rocketable",
-        "batch": "W25"
+        "batch": "W25",
+        "showlogobackground": false
     },
     {
         "id": 38,
@@ -368,7 +404,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/61d9c34b51f9b98cbfdb92bc0014e3569c29b36c.png",
         "website": "https://www.exintherapeutics.com/",
         "ycpage": "https://www.ycombinator.com/companies/exin-therapeutics",
-        "batch": "W25"
+        "batch": "W25",
+        "showlogobackground": false
     },
     {
         "id": 39,
@@ -378,7 +415,8 @@
         "logo": "https://wand.ai/wp-content/uploads/Logo-1.svg#86",
         "website": "https://wand.ai/",
         "ycpage": "https://wand.ai/",
-        "batch": "Non YC"
+        "batch": "Non YC",
+        "showlogobackground": true
     },
     {
         "id": 40,
@@ -388,7 +426,8 @@
         "logo": "https://framerusercontent.com/images/rsgpCcVKvnrbZ8PcjBmqq1y4nc.png?scale-down-to=512",
         "website": "https://getgc.ai/",
         "ycpage": "https://getgc.ai/",
-        "batch": "Non YC"
+        "batch": "Non YC",
+        "showlogobackground": false
     },
     {
         "id": 41,
@@ -398,7 +437,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0bd6ba915d4b288901694ddd2ae32010844f2ff6.png",
         "website": "https://societies.io/",
         "ycpage": "https://www.ycombinator.com/companies/artificial-societies",
-        "batch": "W25"
+        "batch": "W25",
+        "showlogobackground": false
     },
     {
         "id": 42,
@@ -408,7 +448,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/044a61892de93a1b3b4e729e7a83401954eae201.png",
         "website": "https://proception.ai/",
         "ycpage": "https://www.ycombinator.com/companies/proception-inc",
-        "batch": "W25"
+        "batch": "W25",
+        "showlogobackground": false
     },
     {
         "id": 43,
@@ -418,7 +459,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/928589de1c658eafaba5d1b3f60eee04d58ffa36.png",
         "website": "https://pave-robotics.com/",
         "ycpage": "https://www.ycombinator.com/companies/pave-robotics",
-        "batch": "W25"
+        "batch": "W25",
+        "showlogobackground": false
     },
     {
         "id": 44,
@@ -428,7 +470,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8a1c3f9a7b61db8b3dcf3a8453340dd7f22bb529.png",
         "website": "https://www.misprint.com/",
         "ycpage": "https://www.ycombinator.com/companies/misprint",
-        "batch": "W25"
+        "batch": "W25",
+        "showlogobackground": false
     },
     {
         "id": 45,
@@ -438,7 +481,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e13662a45aaad5a75d32c886f95fbfe0a3d0af5a.png",
         "website": "https://www.conntour.com/",
         "ycpage": "https://www.ycombinator.com/companies/conntour",
-        "batch": "W25"
+        "batch": "W25",
+        "showlogobackground": false
     },
     {
         "id": 46,
@@ -448,7 +492,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f8f65cc20ede5375e5fb2b79c8dcf6d37b04f4c2.png",
         "website": "https://www.inversionsemi.com/",
         "ycpage": "https://www.ycombinator.com/companies/inversion-semiconductor",
-        "batch": "W25"
+        "batch": "W25",
+        "showlogobackground": false
     },
     {
         "id": 47,
@@ -458,7 +503,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/73b9a429892a10e92d901a7d903dc0dbcd131ee5.png",
         "website": "https://www.a1base.com/",
         "ycpage": "https://www.ycombinator.com/companies/a1base",
-        "batch": "W25"
+        "batch": "W25",
+        "showlogobackground": false
     },
     {
         "id": 48,
@@ -468,7 +514,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e6fe3367102fb3c122ffe0222d63055c3502fa6b.png",
         "website": "https://www.reditus.space/",
         "ycpage": "https://www.ycombinator.com/companies/reditus-space",
-        "batch": "W25"
+        "batch": "W25",
+        "showlogobackground": false
     },
     {
         "id": 49,
@@ -478,7 +525,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/97af6428ccfdfbaa94b52ffdadc13d8b1f2609b3.png",
         "website": "https://www.enhancedradar.com/",
         "ycpage": "https://www.ycombinator.com/companies/enhanced-radar",
-        "batch": "W25"
+        "batch": "W25",
+        "showlogobackground": false
     },
     {
         "id": 50,
@@ -488,7 +536,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/05c8cff591b86d49ecb387cae532233ca6d248ee.png",
         "website": "https://pax.markets/",
         "ycpage": "https://www.ycombinator.com/companies/pax-markets",
-        "batch": "W25"
+        "batch": "W25",
+        "showlogobackground": false
     },
     {
         "id": 51,
@@ -498,7 +547,8 @@
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7244027171670b7caf312b35e16b9e5cfdd49164.png",
         "website": "https://mentra.glass/",
         "ycpage": "https://www.ycombinator.com/companies/mentra",
-        "batch": "W25"
+        "batch": "W25",
+        "showlogobackground": false
     }
 
     
