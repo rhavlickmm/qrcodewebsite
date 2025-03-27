@@ -549,7 +549,19 @@
         "ycpage": "https://www.ycombinator.com/companies/mentra",
         "batch": "W25",
         "showlogobackground": false
+    },
+    {
+        "id": 52,
+        "sortname": "Promakhos Therapeutics",
+        "name": "Promakhos Therapeutics",
+        "description": "A therapeutics platform for curing inflammatory disorders",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2bf583e0e272b341a471dca1a79bbef1feb19285.png",
+        "website": "https://www.promakhos.com/",
+        "ycpage": "https://www.ycombinator.com/companies/promakhos-therapeutics",
+        "batch": "S21",
+        "showlogobackground": false
     }
+
 
     
 ]
