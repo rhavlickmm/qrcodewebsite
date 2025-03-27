@@ -15,8 +15,13 @@
 		"sortorder": 3
 	},
 	{
+		"batch": "S21",
+		"title": "Summer 2021",
+		"sortorder": 4
+	},
+	{
 		"batch": "Non YC",
 		"title": "Non YC Companies",
-		"sortorder": 4
+		"sortorder": 5
 	}
 ]
