@@ -267,13 +267,13 @@
         "id": 25,
         "sortname": "Cosine",
         "name": "Cosine",
-        "description": "Your AI Co-developer",
+        "description": "Fully Agentic SWE",
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4e00745e7a3c3ee63862572e35ef2d37f8197af5.png",
         "website": "http://www.cosine.sh/",
         "ycpage": "https://www.ycombinator.com/companies/cosine",
         "batch": "W23",
         "showlogobackground": false
-    },
+    },  
     {
         "id": 27,
         "sortname": "Lune AI",
@@ -559,17 +559,6 @@
         "website": "https://www.promakhos.com/",
         "ycpage": "https://www.ycombinator.com/companies/promakhos-therapeutics",
         "batch": "S21",
-        "showlogobackground": false
-    },
-    {
-        "id": 53,
-        "sortname": "Cosine",
-        "name": "Cosine",
-        "description": "Fully Agentic SWE",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4e00745e7a3c3ee63862572e35ef2d37f8197af5.png",
-        "website": "http://www.cosine.sh/",
-        "ycpage": "https://www.ycombinator.com/companies/cosine",
-        "batch": "W23",
         "showlogobackground": false
     }
     
