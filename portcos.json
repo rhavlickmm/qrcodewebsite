@@ -560,6 +560,17 @@
         "ycpage": "https://www.ycombinator.com/companies/promakhos-therapeutics",
         "batch": "S21",
         "showlogobackground": false
+    },
+    {
+        "id": 53,
+        "sortname": "Blaxel",
+        "name": "Blaxel",
+        "description": "AWS for AI Agents",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/60e390e449209c3c990c56045efeb692cf4ce77a.png",
+        "website": "https://blaxel.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/blaxel",
+        "batch": "X25",
+        "showlogobackground": false
     }
     
 ]
