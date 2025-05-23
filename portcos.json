@@ -571,6 +571,16 @@
         "ycpage": "https://www.ycombinator.com/companies/blaxel",
         "batch": "X25",
         "showlogobackground": false
+    },
+    {
+        "id": 54,
+        "sortname": "Lyra",
+        "name": "Lyra",
+        "description": "AI-Native Zoom For Revenue Teams",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/08d53e0e1d5ae814a7eb6f975ac81736e6a9beb7.png",
+        "website": " https://lyra.so/",
+        "ycpage": "https://www.ycombinator.com/companies/lyrahq",
+        "batch": "X25",
+        "showlogobackground": false
     }
-    
 ]
