@@ -578,7 +578,7 @@
         "name": "Lyra",
         "description": "AI-Native Zoom For Revenue Teams",
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/08d53e0e1d5ae814a7eb6f975ac81736e6a9beb7.png",
-        "website": " https://lyra.so/",
+        "website": "https://lyra.so/",
         "ycpage": "https://www.ycombinator.com/companies/lyrahq",
         "batch": "X25",
         "showlogobackground": false
@@ -593,5 +593,28 @@
         "ycpage": "https://www.ycombinator.com/companies/scalar-field",
         "batch": "X25",
         "showlogobackground": true
+    },
+    {
+        "id": 56,
+        "sortname": "Sygaldry Technologies",
+        "name": "Sygaldry Technologies",
+        "description": "quantum-accelerated AI hardware",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d02ac12a4120fdef0e7944b90606a7333b87bb8f.png",
+        "website": "https://www.sygaldry.com/",
+        "ycpage": "https://www.ycombinator.com/companies/sygaldry-technologies",
+        "batch": "X25",
+        "showlogobackground": false
+    },
+    {
+        "id": 57,
+        "sortname": "text.ai",
+        "name": "text.ai",
+        "description": "AI in your group chats",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/60879a0f6dde6019410f20e9e28b08cdec162645.png",
+        "website": "https://www.text.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/text-ai",
+        "batch": "X25",
+        "showlogobackground": false
     }
+
 ]
