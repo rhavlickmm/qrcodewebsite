@@ -615,6 +615,28 @@
         "ycpage": "https://www.ycombinator.com/companies/text-ai",
         "batch": "X25",
         "showlogobackground": false
+    },
+    {
+        "id": 58,
+        "sortname": "Airweave",
+        "name": "Airweave",
+        "description": "Open-Source Tool That Lets Agents Search Any App",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d46327d39d6d471e78471c63b18a9b06c8166938.png",
+        "website": "https://airweave.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/airweave",
+        "batch": "X25",
+        "showlogobackground": false
+    },
+    {
+        "id": 59,
+        "sortname": "Eloquent AI",
+        "name": "Eloquent AI",
+        "description": "The AI Operator for Financial Services",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/af87e3855cde7932b789b7149e717ec9f587f704.png",
+        "website": "https://www.eloquentai.co/",
+        "ycpage": "https://www.ycombinator.com/companies/eloquent-ai",
+        "batch": "X25",
+        "showlogobackground": false
     }
 
 ]
