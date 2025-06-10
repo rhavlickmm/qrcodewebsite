@@ -648,6 +648,17 @@
         "ycpage": "https://www.ycombinator.com/companies/oncactus",
         "batch": "X25",
         "showlogobackground": false
+    },
+    {
+        "id": 61,
+        "sortname": "Besimple AI",
+        "name": "Besimple AI",
+        "description": "AI powered data annotation",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8305d688995d7c8f184d463f02f3ded6947c12e7.png",
+        "website": "https://besimple.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/besimple-ai",
+        "batch": "X25",
+        "showlogobackground": false
     }
 
 
