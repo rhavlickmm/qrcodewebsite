@@ -659,7 +659,27 @@
         "ycpage": "https://www.ycombinator.com/companies/besimple-ai",
         "batch": "X25",
         "showlogobackground": false
+    },
+    {
+        "id": 62,
+        "sortname": "Jeevy Fabrication",
+        "name": "Jeevy Fabrication",
+        "description": "AI Driven EPC - Weld Fabrication Contractor",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/eac311ec272dd9a9d05d85595f54625e24114fe0.png",
+        "website": "https://www.jeevyfabrication.com/",
+        "ycpage": "https://www.ycombinator.com/companies/jeevy-fabrication",
+        "batch": "X25",
+        "showlogobackground": false
+    },
+    {
+        "id": 63,
+        "sortname": "Vendra",
+        "name": "Vendra",
+        "description": "Custom Parts, Manufactured in America",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8045f80c2b2b1a1fc2929fceeae73b968063f35d.png",
+        "website": "https://vendra-marketplace.io/",
+        "ycpage": "https://www.ycombinator.com/companies/vendra",
+        "batch": "S24",
+        "showlogobackground": false
     }
-
-
 ]
