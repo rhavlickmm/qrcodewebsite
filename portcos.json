@@ -276,11 +276,11 @@
     },  
     {
         "id": 27,
-        "sortname": "Lune AI",
-        "name": "Lune AI",
-        "description": "Lune AI - Better LLMs for code and technical tasks",
+        "sortname": "Cosmic",
+        "name": "Cosmic",
+        "description": "Build At Light Speed",
         "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGdxzz2NQKJaA/company-logo_200_200/B4EZdBuHH1GcAQ-/0/1749154296573/lune_inc_logo?e=1756339200&v=beta&t=D8FIL20G2UCw4WJXPUCrjwJ7hmmCPTV4jsZpPMmu1ck",
-        "website": "https://www.lune.dev/",
+        "website": "https://www.cosmic.new/",
         "ycpage": "https://www.ycombinator.com/companies/lune-ai",
         "batch": "F24",
         "showlogobackground": false
