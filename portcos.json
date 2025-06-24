@@ -681,5 +681,17 @@
         "ycpage": "https://www.ycombinator.com/companies/vendra",
         "batch": "S24",
         "showlogobackground": false
+    },
+    {
+      "id": 64,
+      "sortname": "HelixDB",
+      "name": "HelixDB",
+      "description": "Supabase for agents",
+      "logo":   "https://bookface-images.s3.amazonaws.com/small_logos/dfc8c59d06bd11958f3cd88c35b928397093f7d8.png",
+      "website": "https://helix-db.com/",
+      "ycpage": "https://www.ycombinator.com/companies/helixdb",
+      "batch": "X25",
+      "showlogobackground": false
     }
-]
+    
+    ]
