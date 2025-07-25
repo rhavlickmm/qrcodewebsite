@@ -680,6 +680,17 @@
         "ycpage": "https://www.ycombinator.com/companies/vendra",
         "batch": "S24",
         "showlogobackground": false
+    },
+    {
+        "id": 65,
+        "sortname": "Strands",
+        "name": "Strands",
+        "description": "Changing the Future of Financial Markets Infrastructure One Strand at a Time",
+        "logo": "https://cdn.prod.website-files.com/6751ff74d37f9544c38ed5df/6751ff74d37f9544c38ed85f_Logo.svg",
+        "website": "https://www.strands.finance/",
+        "ycpage": "https://www.strands.finance/",
+        "batch": "Non YC",
+        "showlogobackground": false
     }
     
     ]
