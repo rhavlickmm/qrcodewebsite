@@ -691,6 +691,61 @@
         "ycpage": "https://www.strands.finance/",
         "batch": "Non YC",
         "showlogobackground": false
+    },
+    {
+        "id": 66,
+        "sortname": "Array Labs",
+        "name": "Imprezia",
+        "description": "We're building satellites to create a real-time 3D map of the world.",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/34746446c096447594f17489088456723db1992d.png",
+        "website": "https://www.arraylabs.io/",
+        "ycpage": "https://www.ycombinator.com/companies/array-labs",
+        "batch": "S22",
+        "showlogobackground": false
+    }, 
+    {
+        "id": 67,
+        "sortname": "Imprezia",
+        "name": "Imprezia",
+        "description": "The World's First AI-Native Ad Network.",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dcf816765d47aaccb81f4306b7dcf298ccb8337e.png",
+        "website": "https://imprezia.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/imprezia",
+        "batch": "S25",
+        "showlogobackground": false
+    },
+    {
+        "id": 68,
+        "sortname": "Perseus Defense",
+        "name": "Perseus Defense",
+        "description": "16 Inch missiles that target and shoot down drones",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5cdd4deac94e3261e5048ff6c4ffdd39942a5840.png",
+        "website": "https://perseusdefense.com/",
+        "ycpage": "https://www.ycombinator.com/companies/perseus-defense",
+        "batch": "S25",
+        "showlogobackground": false
+    },
+    {
+        "id": 69,
+        "sortname": "Boost Robotics",
+        "name": "Boost Robotics",
+        "description": "Robots for the inspection and maintenance of data centers",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4ab11f23c518bbbd560df743f85f60218829e65f.png",
+        "website": "https://www.boostrobotics.ai",
+        "ycpage": "https://www.ycombinator.com/companies/boost-robotics",
+        "batch": "X25",
+        "showlogobackground": false
+    },
+    {
+        "id": 70,
+        "sortname": "GETASAP ASIA",
+        "name": "GETASAP ASIA",
+        "description": "Tech-Enabled Distribution for Retailers in Southeast Asia",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/642bff7a1b26de3309aed7fc5200498a8dca5180.png",
+        "website": "https://www.getasap.asia/",
+        "ycpage": "https://www.ycombinator.com/companies/getasap-asia",
+        "batch": "S25",
+        "showlogobackground": false
     }
     
-    ]
+]
