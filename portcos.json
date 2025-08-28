@@ -757,7 +757,62 @@
         "ycpage": "https://www.ycombinator.com/companies/risely-ai",
         "batch": "S25",
         "showlogobackground": false
+     },
+     {
+        "id": 72,
+        "sortname": "Pally",
+        "name": "Pally",
+        "description": "Pally is an AI Relationship Management Platform",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6cc7c45ea4fbab294226a104bf2bacc21f8cb627.png",
+        "website": "https://pally.com/",
+        "ycpage": "https://www.ycombinator.com/companies/pally",
+        "batch": "S25",
+        "showlogobackground": true
+     },
+     {
+        "id": 73,
+        "sortname": "Closera",
+        "name": "Closera",
+        "description": "AI employees for commercial real estate",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ff4023cc85097ec825f74cc6019f8b85ea20321a.png",
+        "website": "https://closera.com/",
+        "ycpage": "https://www.ycombinator.com/companies/closera",
+        "batch": "S25",
+        "showlogobackground": false
+     },
+     {
+        "id": 74,
+        "sortname": "Floot",
+        "name": "Floot",
+        "description": "The easiest and most powerful way to build apps with AI",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1f34cf0cf02c3e2059e48082daf0ddc693722515.png",
+        "website": "https://floot.com/",
+        "ycpage": "https://www.ycombinator.com/companies/floot",
+        "batch": "S25",
+        "showlogobackground": false
+     },
+     {
+        "id": 75,
+        "sortname": "BootLoop",
+        "name": "BootLoop",
+        "description": "Firmware in minutes, not months - rigorously tested on real hardware",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/93ce55100656a6ea0aa0d88dd475881eab4f5632.png",
+        "website": "https://bootloop.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/bootloop",
+        "batch": "S25",
+        "showlogobackground": false
+     },
+     {
+        "id": 76,
+        "sortname": "Blank Bio",
+        "name": "Blank Bio",
+        "description": "Computational toolkit for RNA therapeutics",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/be87bc4cb37ba90fa0907b54d6337ec3f0723a2f.png",
+        "website": "http://blank.bio/",
+        "ycpage": "https://www.ycombinator.com/companies/blank-bio",
+        "batch": "S25",
+        "showlogobackground": true
      }
-
+  
 
 ]
