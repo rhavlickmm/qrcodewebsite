@@ -444,7 +444,7 @@
         "sortname": "Proception Inc",
         "name": "Proception Inc",
         "description": "Making humanoids dexterous enough to thread a needle",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/044a61892de93a1b3b4e729e7a83401954eae201.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9bbd5c88222cf5eb971b76232ac40284413785f0.png",
         "website": "https://proception.ai/",
         "ycpage": "https://www.ycombinator.com/companies/proception-inc",
         "batch": "W25",
@@ -811,7 +811,7 @@
         "website": "http://blank.bio/",
         "ycpage": "https://www.ycombinator.com/companies/blank-bio",
         "batch": "S25",
-        "showlogobackground": true
+        "showlogobackground": false
      }
   
 
