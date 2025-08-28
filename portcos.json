@@ -746,18 +746,14 @@
         "ycpage": "https://www.ycombinator.com/companies/getasap-asia",
         "batch": "S25",
         "showlogobackground": false
-    }
-    
-]
-,
-{
-  "id": 71,
-  "sortname": "Risely AI",
-  "name": "Risely AI",
-  "description": "AI agents that automate administrative work across college campuses",
-  "logo":   "https://bookface-images.s3.amazonaws.com/small_logos/4680fe6ec9d7629b24dfdc3825d767092e53950d.png",
-  "website": "https://www.risely.ai/",
-  "ycpage": "https://www.ycombinator.com/companies/risely-ai",
-  "batch": "S25",
-  "showlogobackground": false
-}
+    },
+        "id": 71,
+        "sortname": "Risely AI",
+        "name": "Risely AI",
+        "description": "AI agents that automate administrative work across college campuses",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4680fe6ec9d7629b24dfdc3825d767092e53950d.png",
+        "website": "https://www.risely.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/risely-ai",
+        "batch": "S25",
+        "showlogobackground": false
+     },
