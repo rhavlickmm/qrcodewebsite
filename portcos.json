@@ -812,6 +812,39 @@
         "ycpage": "https://www.ycombinator.com/companies/blank-bio",
         "batch": "S25",
         "showlogobackground": false
+     },
+     {
+        "id": 77,
+        "sortname": "Verne Robotics",
+        "name": "Verne Robotics",
+        "description": "AI models that teach robots new skills in hours",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/08842805c015165cf0d7e591168f2b15a9e9c85a.png",
+        "website": "https://vernerobotics.com/",
+        "ycpage": "https://www.ycombinator.com/companies/verne-robotics",
+        "batch": "S25",
+        "showlogobackground": false
+     },
+     {
+        "id": 78,
+        "sortname": "RealRoots",
+        "name": "RealRoots",
+        "description": "AI social app for female transplants",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e4b72e88bef4437e7d672c23bb7e1f952c837fca.png",
+        "website": "http://www.therealroots.com/",
+        "ycpage": "https://www.ycombinator.com/companies/realroots",
+        "batch": "S25",
+        "showlogobackground": false
+     },
+     {
+        "id": 79,
+        "sortname": "The Interface",
+        "name": "The Interface",
+        "description": "The foundations for AI-native media",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/810308579f6f68ad3885b631328af1d0668015af.png",
+        "website": "https://www.theinterface.com/",
+        "ycpage": "https://www.ycombinator.com/companies/the-interface",
+        "batch": "S25",
+        "showlogobackground": false
      }
   
 
