@@ -199,12 +199,12 @@
     },
     {
         "id": 19,
-        "sortname": "Exa Laboratories",
-        "name": "Exa Laboratories",
+        "sortname": "Zettascale",
+        "name": "Zettascale",
         "description": "Energy efficient chips for AI",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c5fd53eea76198c06d20822dbe619ea2c841e00c.png",
-        "website": "https://exalaboratories.com/",
-        "ycpage": "https://www.ycombinator.com/companies/exa-laboratories",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5d24db5f94c1d947d295a894627b74215cc5d32b.png",
+        "website": "https://zscc.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/zettascale",
         "batch": "S24",
         "showlogobackground": false
     },
