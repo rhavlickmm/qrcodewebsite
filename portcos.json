@@ -206,7 +206,7 @@
         "website": "https://zscc.ai/",
         "ycpage": "https://www.ycombinator.com/companies/zettascale",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": true
     },
     {
         "id": 20,
@@ -767,7 +767,7 @@
         "website": "https://pally.com/",
         "ycpage": "https://www.ycombinator.com/companies/pally",
         "batch": "S25",
-        "showlogobackground": true
+        "showlogobackground": false
      },
      {
         "id": 73,
