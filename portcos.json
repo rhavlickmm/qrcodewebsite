@@ -59,7 +59,7 @@
         "sortname": "Entangl",
         "name": "Entangl",
         "description": "Automating hardware design end-to-end without errors",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0a2d6e23cb178ee58476a31290945343d8a31a48.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5593913bae70a1285b652709232688417e1071ac.png",
         "website": "https://www.entangl.ai/",
         "ycpage": "https://www.ycombinator.com/companies/entangl",
         "batch": "S24",
@@ -100,10 +100,10 @@
     },
     {
         "id": 10,
-        "sortname": "Asterisk",
-        "name": "Asterisk",
+        "sortname": "winfunc",
+        "name": "winfunc",
         "description": "AI Hacker for Codebases",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d9d0d2f6b82ad16085947b8f50c8befcd9a6f3f7.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/13b545a54f6c045d5fa9984cd597323e2738fea2.png",
         "website": "https://asterisk.so/",
         "ycpage": "https://www.ycombinator.com/companies/asterisk",
         "batch": "S24",
@@ -833,6 +833,17 @@
         "website": "https://www.theinterface.com/",
         "ycpage": "https://www.ycombinator.com/companies/the-interface",
         "batch": "S25",
+        "showlogobackground": false
+     },
+     {
+        "id": 80,
+        "sortname": "Piggy Robotics",
+        "name": "Piggy Robotics",
+        "description": "Humanoid robots that do your chores for the price of an iPhone!",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bb8bcc76da3e91c1a436eea5e5eec4075f3deb89.png",
+        "website": "https://rigmanic.com/",
+        "ycpage": "https://www.ycombinator.com/companies/piggy-robotics",
+        "batch": "S24",
         "showlogobackground": false
      }
   
