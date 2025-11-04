@@ -866,7 +866,7 @@
         "website": "https://www.icarus.one/",
         "ycpage": "https://www.ycombinator.com/companies/icarus",
         "batch": "F25",
-        "showlogobackground": false
+        "showlogobackground": true
      }
 
 ]
