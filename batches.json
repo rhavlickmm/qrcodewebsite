@@ -1,48 +1,53 @@
 [
 	{
+		"batch": "F25",
+		"title": "Fall 2025",
+		"sortorder": 1
+	},
+	{
 		"batch": "S25",
 		"title": "Summer 2025",
-		"sortorder": 1
+		"sortorder": 2
 	},
 	{
 		"batch": "X25",
 		"title": "Spring 2025",
-		"sortorder": 2
+		"sortorder": 3
 	},
 	{
 		"batch": "W25",
 		"title": "Winter 2025",
-		"sortorder": 3
+		"sortorder": 4
 	},
 	{
 		"batch": "F24",
 		"title": "Fall 2024",
-		"sortorder": 4
+		"sortorder": 5
 	},
 	{
 		"batch": "S24",
 		"title": "Summer 2024",
-		"sortorder": 5
+		"sortorder": 6
 	},
 	{
 		"batch": "W23",
 		"title": "Winter 2023",
-		"sortorder": 6
+		"sortorder": 7
 	},
 
 	{
 		"batch": "S22",
 		"title": "Summer 2022",
-		"sortorder": 7
+		"sortorder": 8
 	},
 	{
 		"batch": "S21",
 		"title": "Summer 2021",
-		"sortorder": 8
+		"sortorder": 9
 	},
 	{
 		"batch": "Non YC",
 		"title": "Non YC Companies",
-		"sortorder": 9
+		"sortorder": 10
 	}
 ]
