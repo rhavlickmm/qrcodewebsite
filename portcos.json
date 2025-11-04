@@ -845,7 +845,28 @@
         "ycpage": "https://www.ycombinator.com/companies/piggy-robotics",
         "batch": "S24",
         "showlogobackground": false
+     },
+     {
+        "id": 81,
+        "sortname": "Neurable",
+        "name": "Neurable",
+        "description": "The Mind. Unlocked. Work Smarter. Live Better.",
+        "logo": "https://cdn.prod.website-files.com/68236712486104f66d06ca97/68236712486104f66d06cadb_Logo.webp",
+        "website": "https://neurable.com/",
+        "ycpage": "https://neurable.com/",
+        "batch": "Non YC",
+        "showlogobackground": true
+     },
+     {
+        "id": 82,
+        "sortname": "Icarus",
+        "name": "Icarus",
+        "description": "Stratospheric birds for defense",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/641db1cdc907f274cb944fd6796edc486aa6d653.png",
+        "website": "https://www.icarus.one/",
+        "ycpage": "https://www.ycombinator.com/companies/icarus",
+        "batch": "F25",
+        "showlogobackground": false
      }
-  
 
 ]
