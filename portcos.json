@@ -862,7 +862,7 @@
         "sortname": "Icarus",
         "name": "Icarus",
         "description": "Stratospheric birds for defense",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/641db1cdc907f274cb944fd6796edc486aa6d653.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/641db1cdc907f274cb944fd6796edc486aa6d653.png?raw=true",
         "website": "https://www.icarus.one/",
         "ycpage": "https://www.ycombinator.com/companies/icarus",
         "batch": "F25",
