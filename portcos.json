@@ -867,6 +867,17 @@
         "ycpage": "https://www.ycombinator.com/companies/icarus",
         "batch": "F25",
         "showlogobackground": true
+     },
+     {
+        "id": 83,
+        "sortname": "Cortex AI",
+        "name": "Cortex AI",
+        "description": "Large-scale real-world robot & egocentric data for embodied AI",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1c9246b8eba5ba12a7373a930ea46cc687dddb98.png",
+        "website": "https://cortexrobot.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/cortex-ai",
+        "batch": "F25",
+        "showlogobackground": false
      }
 
 ]
