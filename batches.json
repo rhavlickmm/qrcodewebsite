@@ -30,24 +30,29 @@
 		"sortorder": 6
 	},
 	{
+		"batch": "W24",
+		"title": "Winter 2024",
+		"sortorder": 7
+	},
+	{
 		"batch": "W23",
 		"title": "Winter 2023",
-		"sortorder": 7
+		"sortorder": 8
 	},
 
 	{
 		"batch": "S22",
 		"title": "Summer 2022",
-		"sortorder": 8
+		"sortorder": 9
 	},
 	{
 		"batch": "S21",
 		"title": "Summer 2021",
-		"sortorder": 9
+		"sortorder": 10
 	},
 	{
 		"batch": "Non YC",
 		"title": "Non YC Companies",
-		"sortorder": 10
+		"sortorder": 11
 	}
 ]
