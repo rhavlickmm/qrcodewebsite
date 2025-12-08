@@ -1010,5 +1010,16 @@
         "ycpage": "https://www.ycombinator.com/companies/uplane",
         "batch": "F25",
         "showlogobackground": false
-     }
+     },
+     {
+        "id": 96,
+        "sortname": "Basalt",
+        "name": "Basalt",
+        "description": "Autonomy in space, for every mission",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/05acac6bcc5d9a03dbabb03c39fa62276a5ef6ea.png",
+        "website": "https://basalt.space/",
+        "ycpage": "https://www.ycombinator.com/companies/basalt",
+        "batch": "W24",
+        "showlogobackground": false
+     }    
 ]
