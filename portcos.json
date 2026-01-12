@@ -10,7 +10,8 @@
         "batch": "S24",
         "showlogobackground": true,
         "primary_category": "Finance / Fintech",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 2,
@@ -23,7 +24,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Crypto",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 3,
@@ -36,7 +38,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Software & Infrastructure & Datacenter",
-        "secondary_category": "Engineering"
+        "secondary_category": "Engineering",
+        "status": "active"
     },
     {
         "id": 4,
@@ -49,7 +52,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Robotics",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 5,
@@ -62,7 +66,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Defense",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 6,
@@ -75,7 +80,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Software & Infrastructure & Datacenter",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 7,
@@ -88,7 +94,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Hardware",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 8,
@@ -101,7 +108,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Defense",
-        "secondary_category": "Aerospace"
+        "secondary_category": "Aerospace",
+        "status": "active"
     },
     {
         "id": 9,
@@ -114,7 +122,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Biotech",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 10,
@@ -127,7 +136,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Security",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 11,
@@ -140,7 +150,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Quantum Computing",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 12,
@@ -153,7 +164,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Security",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 13,
@@ -166,7 +178,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "AI",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 14,
@@ -179,7 +192,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Real Estate & Management",
-        "secondary_category": "Consumer"
+        "secondary_category": "Consumer",
+        "status": "active"
     },
     {
         "id": 15,
@@ -192,7 +206,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "AI",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 16,
@@ -205,7 +220,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Robotics",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 17,
@@ -218,7 +234,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "AI",
-        "secondary_category": "Advertising & Marketing"
+        "secondary_category": "Advertising & Marketing",
+        "status": "active"
     },
     {
         "id": 18,
@@ -231,7 +248,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Productivity",
-        "secondary_category": "Tax"
+        "secondary_category": "Tax",
+        "status": "active"
     },
     {
         "id": 19,
@@ -244,7 +262,8 @@
         "batch": "S24",
         "showlogobackground": true,
         "primary_category": "Hardware",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 20,
@@ -257,7 +276,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Biotech",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 21,
@@ -270,12 +290,13 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "HR",
-        "secondary_category": "Enterprise"
+        "secondary_category": "Enterprise",
+        "status": "active"
     },
     {
         "id": 22,
         "sortname": "Angstrom AI",
-        "name": "\u00c5ngstr\u00f6m AI",
+        "name": "Ångström AI",
         "description": "Gen AI molecular simulations that reproduce wetlab results",
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d66ae246dae1ca35e8275f53019cac07d3259c99.png",
         "website": "https://www.angstrom-ai.com/",
@@ -283,7 +304,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Biotech",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 23,
@@ -296,7 +318,8 @@
         "batch": "F24",
         "showlogobackground": false,
         "primary_category": "GovTech",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 24,
@@ -309,7 +332,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Robotics",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 25,
@@ -322,7 +346,8 @@
         "batch": "W23",
         "showlogobackground": false,
         "primary_category": "Software & Infrastructure & Datacenter",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 27,
@@ -335,7 +360,8 @@
         "batch": "F24",
         "showlogobackground": false,
         "primary_category": "Software & Infrastructure & Datacenter",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 28,
@@ -348,7 +374,8 @@
         "batch": "F24",
         "showlogobackground": true,
         "primary_category": "Software & Infrastructure",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 29,
@@ -361,7 +388,8 @@
         "batch": "F24",
         "showlogobackground": false,
         "primary_category": "Finance / Fintech",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 30,
@@ -374,7 +402,8 @@
         "batch": "F24",
         "showlogobackground": false,
         "primary_category": "Software & Infrastructure & Datacenter",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "inactive"
     },
     {
         "id": 31,
@@ -387,7 +416,8 @@
         "batch": "F24",
         "showlogobackground": false,
         "primary_category": "Software & Infrastructure",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "inactive"
     },
     {
         "id": 32,
@@ -400,7 +430,8 @@
         "batch": "F24",
         "showlogobackground": false,
         "primary_category": "Finance / Fintech",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 33,
@@ -413,7 +444,8 @@
         "batch": "F24",
         "showlogobackground": false,
         "primary_category": "HealthTech",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 34,
@@ -426,7 +458,8 @@
         "batch": "F24",
         "showlogobackground": false,
         "primary_category": "HealthTech",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 35,
@@ -439,7 +472,8 @@
         "batch": "F24",
         "showlogobackground": false,
         "primary_category": "Robotics",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 36,
@@ -452,7 +486,8 @@
         "batch": "F24",
         "showlogobackground": false,
         "primary_category": "AI",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 37,
@@ -465,7 +500,8 @@
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "Private Equity",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 38,
@@ -478,7 +514,8 @@
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "Biotech",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 39,
@@ -491,7 +528,8 @@
         "batch": "Non YC",
         "showlogobackground": true,
         "primary_category": "Productivity",
-        "secondary_category": "Enterprise"
+        "secondary_category": "Enterprise",
+        "status": "active"
     },
     {
         "id": 40,
@@ -504,7 +542,8 @@
         "batch": "Non YC",
         "showlogobackground": true,
         "primary_category": "Legal",
-        "secondary_category": "Enterprise"
+        "secondary_category": "Enterprise",
+        "status": "active"
     },
     {
         "id": 41,
@@ -517,7 +556,8 @@
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "Advertising & Marketing",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 42,
@@ -530,7 +570,8 @@
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "Robotics",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 43,
@@ -543,7 +584,8 @@
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "Robotics",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 44,
@@ -556,7 +598,8 @@
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "Consumer",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 45,
@@ -569,7 +612,8 @@
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "Security",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 46,
@@ -582,7 +626,8 @@
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "Hardware",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 47,
@@ -595,7 +640,8 @@
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "Social Network",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 48,
@@ -608,7 +654,8 @@
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "Aerospace",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 49,
@@ -621,7 +668,8 @@
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "Aerospace",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 50,
@@ -634,7 +682,8 @@
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "Crypto",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 51,
@@ -647,7 +696,8 @@
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "Hardware",
-        "secondary_category": "Consumer"
+        "secondary_category": "Consumer",
+        "status": "active"
     },
     {
         "id": 52,
@@ -660,7 +710,8 @@
         "batch": "S21",
         "showlogobackground": false,
         "primary_category": "Biotech",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 53,
@@ -673,7 +724,8 @@
         "batch": "X25",
         "showlogobackground": false,
         "primary_category": "Software & Infrastructure & Datacenter",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 54,
@@ -686,20 +738,22 @@
         "batch": "X25",
         "showlogobackground": false,
         "primary_category": "Enterprise",
-        "secondary_category": "Customer Success"
+        "secondary_category": "Customer Success",
+        "status": "active"
     },
     {
         "id": 55,
         "sortname": "Scalar Field",
         "name": "Scalar Field",
-        "description": "Reinventing the trading terminal \u2014 one intelligent agent at a time.",
+        "description": "Reinventing the trading terminal — one intelligent agent at a time.",
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7b28fd1bee5f680014678e8985405788a687849f.png",
         "website": "https://www.scalarfield.io/",
         "ycpage": "https://www.ycombinator.com/companies/scalar-field",
         "batch": "X25",
         "showlogobackground": true,
         "primary_category": "Finance / Fintech",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 56,
@@ -712,7 +766,8 @@
         "batch": "X25",
         "showlogobackground": false,
         "primary_category": "Quantum Computing",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 57,
@@ -725,7 +780,8 @@
         "batch": "X25",
         "showlogobackground": false,
         "primary_category": "Consumer",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 58,
@@ -738,7 +794,8 @@
         "batch": "X25",
         "showlogobackground": false,
         "primary_category": "Software & Infrastructure & Datacenter",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 59,
@@ -751,7 +808,8 @@
         "batch": "X25",
         "showlogobackground": false,
         "primary_category": "Enterprise",
-        "secondary_category": "Customer Success"
+        "secondary_category": "Customer Success",
+        "status": "active"
     },
     {
         "id": 61,
@@ -764,7 +822,8 @@
         "batch": "X25",
         "showlogobackground": false,
         "primary_category": "Data Annotation & Labeling",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 62,
@@ -777,7 +836,8 @@
         "batch": "X25",
         "showlogobackground": false,
         "primary_category": "Manufacturing",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 63,
@@ -789,8 +849,9 @@
         "ycpage": "https://www.ycombinator.com/companies/vendra",
         "batch": "S24",
         "showlogobackground": false,
-        "primary_category": "Hardware",
-        "secondary_category": "Manufacturing"
+        "primary_category": "Manufacturing",
+        "secondary_category": "Hardware",
+        "status": "active"
     },
     {
         "id": 65,
@@ -803,7 +864,8 @@
         "batch": "Non YC",
         "showlogobackground": false,
         "primary_category": "Crypto",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 66,
@@ -816,7 +878,8 @@
         "batch": "S22",
         "showlogobackground": false,
         "primary_category": "Aerospace",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 67,
@@ -829,7 +892,8 @@
         "batch": "S25",
         "showlogobackground": false,
         "primary_category": "Advertising & Marketing",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 68,
@@ -842,7 +906,8 @@
         "batch": "S25",
         "showlogobackground": false,
         "primary_category": "Robotics",
-        "secondary_category": "Defense"
+        "secondary_category": "Defense",
+        "status": "active"
     },
     {
         "id": 69,
@@ -855,7 +920,8 @@
         "batch": "X25",
         "showlogobackground": false,
         "primary_category": "Robotics",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 70,
@@ -868,7 +934,8 @@
         "batch": "S25",
         "showlogobackground": false,
         "primary_category": "Logistics",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 71,
@@ -881,7 +948,8 @@
         "batch": "S25",
         "showlogobackground": false,
         "primary_category": "Education",
-        "secondary_category": "Productivity"
+        "secondary_category": "Productivity",
+        "status": "active"
     },
     {
         "id": 72,
@@ -894,7 +962,8 @@
         "batch": "S25",
         "showlogobackground": false,
         "primary_category": "Productivity",
-        "secondary_category": "Enterprise"
+        "secondary_category": "Enterprise",
+        "status": "active"
     },
     {
         "id": 73,
@@ -907,7 +976,8 @@
         "batch": "S25",
         "showlogobackground": false,
         "primary_category": "Real Estate & Management",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 74,
@@ -920,7 +990,8 @@
         "batch": "S25",
         "showlogobackground": false,
         "primary_category": "Software & Infrastructure & Datacenter",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 75,
@@ -933,7 +1004,8 @@
         "batch": "S25",
         "showlogobackground": false,
         "primary_category": "Hardware",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 76,
@@ -946,7 +1018,8 @@
         "batch": "S25",
         "showlogobackground": false,
         "primary_category": "Biotech",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 77,
@@ -959,7 +1032,8 @@
         "batch": "S25",
         "showlogobackground": false,
         "primary_category": "Robotics",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 78,
@@ -972,7 +1046,8 @@
         "batch": "S25",
         "showlogobackground": false,
         "primary_category": "Social Network",
-        "secondary_category": "Consumer"
+        "secondary_category": "Consumer",
+        "status": "active"
     },
     {
         "id": 79,
@@ -985,7 +1060,8 @@
         "batch": "S25",
         "showlogobackground": false,
         "primary_category": "Entertainment",
-        "secondary_category": "Video / Media"
+        "secondary_category": "Video / Media",
+        "status": "active"
     },
     {
         "id": 80,
@@ -998,7 +1074,8 @@
         "batch": "S24",
         "showlogobackground": false,
         "primary_category": "Robotics",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 81,
@@ -1011,7 +1088,8 @@
         "batch": "Non YC",
         "showlogobackground": true,
         "primary_category": "Consumer",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 82,
@@ -1024,7 +1102,8 @@
         "batch": "F25",
         "showlogobackground": true,
         "primary_category": "Robotics",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 83,
@@ -1037,7 +1116,8 @@
         "batch": "F25",
         "showlogobackground": false,
         "primary_category": "Data Annotation & Labeling",
-        "secondary_category": "Robotics"
+        "secondary_category": "Robotics",
+        "status": "active"
     },
     {
         "id": 84,
@@ -1050,7 +1130,8 @@
         "batch": "F25",
         "showlogobackground": false,
         "primary_category": "Manufacturing",
-        "secondary_category": "AI"
+        "secondary_category": "AI",
+        "status": "active"
     },
     {
         "id": 85,
@@ -1063,7 +1144,8 @@
         "batch": "F25",
         "showlogobackground": false,
         "primary_category": "HealthTech",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 86,
@@ -1076,7 +1158,8 @@
         "batch": "F25",
         "showlogobackground": false,
         "primary_category": "Productivity",
-        "secondary_category": "Resturants"
+        "secondary_category": "Resturants",
+        "status": "active"
     },
     {
         "id": 87,
@@ -1089,7 +1172,8 @@
         "batch": "F25",
         "showlogobackground": false,
         "primary_category": "Advertising & Marketing",
-        "secondary_category": "Video / Media"
+        "secondary_category": "Video / Media",
+        "status": "active"
     },
     {
         "id": 88,
@@ -1102,7 +1186,8 @@
         "batch": "F25",
         "showlogobackground": false,
         "primary_category": "Finance / Fintech",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 89,
@@ -1115,7 +1200,8 @@
         "batch": "F25",
         "showlogobackground": false,
         "primary_category": "E-Commerce",
-        "secondary_category": "Consumer"
+        "secondary_category": "Consumer",
+        "status": "active"
     },
     {
         "id": 90,
@@ -1128,7 +1214,8 @@
         "batch": "F25",
         "showlogobackground": false,
         "primary_category": "Software & Infrastructure",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 91,
@@ -1141,7 +1228,8 @@
         "batch": "F25",
         "showlogobackground": false,
         "primary_category": "Security",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 92,
@@ -1154,7 +1242,8 @@
         "batch": "F25",
         "showlogobackground": false,
         "primary_category": "HR",
-        "secondary_category": "Consumer"
+        "secondary_category": "Consumer",
+        "status": "active"
     },
     {
         "id": 93,
@@ -1167,7 +1256,8 @@
         "batch": "F25",
         "showlogobackground": false,
         "primary_category": "AI",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     },
     {
         "id": 94,
@@ -1180,7 +1270,8 @@
         "batch": "F25",
         "showlogobackground": false,
         "primary_category": "Productivity",
-        "secondary_category": "Enterprise"
+        "secondary_category": "Enterprise",
+        "status": "active"
     },
     {
         "id": 95,
@@ -1193,7 +1284,8 @@
         "batch": "F25",
         "showlogobackground": false,
         "primary_category": "Advertising & Marketing",
-        "secondary_category": "E-Commerce"
+        "secondary_category": "E-Commerce",
+        "status": "active"
     },
     {
         "id": 96,
@@ -1206,6 +1298,7 @@
         "batch": "W24",
         "showlogobackground": false,
         "primary_category": "Aerospace",
-        "secondary_category": null
+        "secondary_category": null,
+        "status": "active"
     }
 ]
