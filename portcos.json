@@ -393,17 +393,17 @@
     },
     {
         "id": 30,
-        "sortname": "PearAI",
-        "name": "PearAI",
-        "description": "VSCode For The New Age of AI",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/dfc66990c87e4d8f300d62eedff5460f882406da.png",
-        "website": "https://trypear.ai/",
-        "ycpage": "https://www.ycombinator.com/companies/pearai",
+        "sortname": "Streamable",
+        "name": "Streamable",
+        "description": "Never IRL stream with issues again.",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d318f4dc19468a1650202defffac7c3b9d4b5b40.png",
+        "website": "https://streamable.run/",
+        "ycpage": "https://www.ycombinator.com/companies/streamable",
         "batch": "F24",
         "showlogobackground": false,
         "primary_category": "Software & Infrastructure & Datacenter",
         "secondary_category": null,
-        "status": "inactive"
+        "status": "active"
     },
     {
         "id": 31,
