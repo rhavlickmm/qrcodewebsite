@@ -8,7 +8,9 @@
         "website": "https://bayesline.com/",
         "ycpage": "https://www.ycombinator.com/companies/bayesline",
         "batch": "S24",
-        "showlogobackground": true
+        "showlogobackground": true,
+        "primary_category": "Finance / Fintech",
+        "secondary_category": null
     },
     {
         "id": 2,
@@ -19,7 +21,9 @@
         "website": "https://kontigo.lat/",
         "ycpage": "https://www.ycombinator.com/companies/kontigo",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Crypto",
+        "secondary_category": null
     },
     {
         "id": 3,
@@ -30,7 +34,9 @@
         "website": "https://www.hestus.co/",
         "ycpage": "https://www.ycombinator.com/companies/hestus-inc",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Software & Infrastructure & Datacenter",
+        "secondary_category": "Engineering"
     },
     {
         "id": 4,
@@ -41,7 +47,9 @@
         "website": "https://www.weaverobots.com/",
         "ycpage": "https://www.ycombinator.com/companies/weave-robotics",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Robotics",
+        "secondary_category": null
     },
     {
         "id": 5,
@@ -52,7 +60,9 @@
         "website": "https://www.usul.co/",
         "ycpage": "https://www.ycombinator.com/companies/usul",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Defense",
+        "secondary_category": null
     },
     {
         "id": 6,
@@ -63,7 +73,9 @@
         "website": "https://www.entangl.ai/",
         "ycpage": "https://www.ycombinator.com/companies/entangl",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Software & Infrastructure & Datacenter",
+        "secondary_category": null
     },
     {
         "id": 7,
@@ -74,7 +86,9 @@
         "website": "https://www.deepsim.io/",
         "ycpage": "https://www.ycombinator.com/companies/deepsim-inc",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Hardware",
+        "secondary_category": null
     },
     {
         "id": 8,
@@ -85,7 +99,9 @@
         "website": "https://aresindustries.com/",
         "ycpage": "https://www.ycombinator.com/companies/ares-industries",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Defense",
+        "secondary_category": "Aerospace"
     },
     {
         "id": 9,
@@ -96,7 +112,9 @@
         "website": "https://www.ligo.bio/",
         "ycpage": "https://www.ycombinator.com/companies/ligo-biosciences",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Biotech",
+        "secondary_category": null
     },
     {
         "id": 10,
@@ -107,7 +125,9 @@
         "website": "https://asterisk.so/",
         "ycpage": "https://www.ycombinator.com/companies/asterisk",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Security",
+        "secondary_category": null
     },
     {
         "id": 11,
@@ -118,7 +138,9 @@
         "website": "https://www.conductorquantum.com/",
         "ycpage": "https://www.ycombinator.com/companies/conductor-quantum",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Quantum Computing",
+        "secondary_category": null
     },
     {
         "id": 12,
@@ -129,7 +151,9 @@
         "website": "https://zeropath.com/",
         "ycpage": "https://www.ycombinator.com/companies/zeropath",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Security",
+        "secondary_category": null
     },
     {
         "id": 13,
@@ -140,7 +164,9 @@
         "website": "https://runlocal.ai/",
         "ycpage": "https://www.ycombinator.com/companies/runlocal",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "AI",
+        "secondary_category": null
     },
     {
         "id": 14,
@@ -151,7 +177,9 @@
         "website": "https://www.prohost.ai/",
         "ycpage": "https://www.ycombinator.com/companies/prohostai",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Real Estate & Management",
+        "secondary_category": "Consumer"
     },
     {
         "id": 15,
@@ -162,7 +190,9 @@
         "website": "https://www.capitol.ai/",
         "ycpage": "https://www.ycombinator.com/companies/capitol-ai",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "AI",
+        "secondary_category": null
     },
     {
         "id": 16,
@@ -173,7 +203,9 @@
         "website": "https://ultra.tech/",
         "ycpage": "https://www.ycombinator.com/companies/ultra",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Robotics",
+        "secondary_category": null
     },
     {
         "id": 17,
@@ -184,7 +216,9 @@
         "website": "https://www.digitalcarbon.ai/",
         "ycpage": "https://www.ycombinator.com/companies/digitalcarbon",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "AI",
+        "secondary_category": "Advertising & Marketing"
     },
     {
         "id": 18,
@@ -195,7 +229,9 @@
         "website": "https://www.taxgpt.com/",
         "ycpage": "https://www.ycombinator.com/companies/taxgpt",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Productivity",
+        "secondary_category": "Tax"
     },
     {
         "id": 19,
@@ -206,7 +242,9 @@
         "website": "https://zscc.ai/",
         "ycpage": "https://www.ycombinator.com/companies/zettascale",
         "batch": "S24",
-        "showlogobackground": true
+        "showlogobackground": true,
+        "primary_category": "Hardware",
+        "secondary_category": null
     },
     {
         "id": 20,
@@ -217,7 +255,9 @@
         "website": "https://kopra.bio/",
         "ycpage": "https://www.ycombinator.com/companies/kopra-bio",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Biotech",
+        "secondary_category": null
     },
     {
         "id": 21,
@@ -228,18 +268,22 @@
         "website": "https://centralhq.com/",
         "ycpage": "https://www.ycombinator.com/companies/central",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "HR",
+        "secondary_category": "Enterprise"
     },
     {
         "id": 22,
         "sortname": "Angstrom AI",
-        "name": "Ångström AI",
+        "name": "\u00c5ngstr\u00f6m AI",
         "description": "Gen AI molecular simulations that reproduce wetlab results",
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d66ae246dae1ca35e8275f53019cac07d3259c99.png",
         "website": "https://www.angstrom-ai.com/",
         "ycpage": "https://www.ycombinator.com/companies/angstrom-ai",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Biotech",
+        "secondary_category": null
     },
     {
         "id": 23,
@@ -250,7 +294,9 @@
         "website": "https://roundabout.tech/",
         "ycpage": "https://www.ycombinator.com/companies/roundabout-technologies",
         "batch": "F24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "GovTech",
+        "secondary_category": null
     },
     {
         "id": 24,
@@ -261,7 +307,9 @@
         "website": "https://www.cerulion.com/",
         "ycpage": "https://www.ycombinator.com/companies/cerulion",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Robotics",
+        "secondary_category": null
     },
     {
         "id": 25,
@@ -272,8 +320,10 @@
         "website": "http://www.cosine.sh/",
         "ycpage": "https://www.ycombinator.com/companies/cosine",
         "batch": "W23",
-        "showlogobackground": false
-    },  
+        "showlogobackground": false,
+        "primary_category": "Software & Infrastructure & Datacenter",
+        "secondary_category": null
+    },
     {
         "id": 27,
         "sortname": "Cosmic",
@@ -283,7 +333,9 @@
         "website": "https://www.cosmic.new/",
         "ycpage": "https://www.ycombinator.com/companies/lune-ai",
         "batch": "F24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Software & Infrastructure & Datacenter",
+        "secondary_category": null
     },
     {
         "id": 28,
@@ -294,7 +346,9 @@
         "website": "https://humanlayer.dev/",
         "ycpage": "https://www.ycombinator.com/companies/humanlayer",
         "batch": "F24",
-        "showlogobackground": true
+        "showlogobackground": true,
+        "primary_category": "Software & Infrastructure",
+        "secondary_category": null
     },
     {
         "id": 29,
@@ -305,7 +359,9 @@
         "website": "https://www.revi.ai/",
         "ycpage": "https://www.ycombinator.com/companies/revi",
         "batch": "F24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Finance / Fintech",
+        "secondary_category": null
     },
     {
         "id": 30,
@@ -316,7 +372,9 @@
         "website": "https://trypear.ai/",
         "ycpage": "https://www.ycombinator.com/companies/pearai",
         "batch": "F24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Software & Infrastructure & Datacenter",
+        "secondary_category": null
     },
     {
         "id": 31,
@@ -327,7 +385,9 @@
         "website": "https://alexcodes.app/",
         "ycpage": "https://www.ycombinator.com/companies/alex",
         "batch": "F24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Software & Infrastructure",
+        "secondary_category": null
     },
     {
         "id": 32,
@@ -338,7 +398,9 @@
         "website": "https://www.keye.co/",
         "ycpage": "https://www.ycombinator.com/companies/keye",
         "batch": "F24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Finance / Fintech",
+        "secondary_category": null
     },
     {
         "id": 33,
@@ -349,7 +411,9 @@
         "website": "https://www.embercopilot.ai/",
         "ycpage": "https://www.ycombinator.com/companies/ember-copilot",
         "batch": "F24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "HealthTech",
+        "secondary_category": null
     },
     {
         "id": 34,
@@ -360,7 +424,9 @@
         "website": "https://asha.health/",
         "ycpage": "https://www.ycombinator.com/companies/asha-health",
         "batch": "F24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "HealthTech",
+        "secondary_category": null
     },
     {
         "id": 35,
@@ -371,7 +437,9 @@
         "website": "https://innate.bot/",
         "ycpage": "https://www.ycombinator.com/companies/innate",
         "batch": "F24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Robotics",
+        "secondary_category": null
     },
     {
         "id": 36,
@@ -382,7 +450,9 @@
         "website": "https://www.ctgt.ai/",
         "ycpage": "https://www.ycombinator.com/companies/ctgt",
         "batch": "F24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "AI",
+        "secondary_category": null
     },
     {
         "id": 37,
@@ -393,7 +463,9 @@
         "website": "https://www.rocketable.com/",
         "ycpage": "https://www.ycombinator.com/companies/rocketable",
         "batch": "W25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Private Equity",
+        "secondary_category": null
     },
     {
         "id": 38,
@@ -404,7 +476,9 @@
         "website": "https://www.exintherapeutics.com/",
         "ycpage": "https://www.ycombinator.com/companies/exin-therapeutics",
         "batch": "W25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Biotech",
+        "secondary_category": null
     },
     {
         "id": 39,
@@ -415,7 +489,9 @@
         "website": "https://wand.ai/",
         "ycpage": "https://wand.ai/",
         "batch": "Non YC",
-        "showlogobackground": true
+        "showlogobackground": true,
+        "primary_category": "Productivity",
+        "secondary_category": "Enterprise"
     },
     {
         "id": 40,
@@ -426,7 +502,9 @@
         "website": "https://getgc.ai/",
         "ycpage": "https://getgc.ai/",
         "batch": "Non YC",
-        "showlogobackground": true
+        "showlogobackground": true,
+        "primary_category": "Legal",
+        "secondary_category": "Enterprise"
     },
     {
         "id": 41,
@@ -437,7 +515,9 @@
         "website": "https://societies.io/",
         "ycpage": "https://www.ycombinator.com/companies/artificial-societies",
         "batch": "W25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Advertising & Marketing",
+        "secondary_category": null
     },
     {
         "id": 42,
@@ -448,7 +528,9 @@
         "website": "https://proception.ai/",
         "ycpage": "https://www.ycombinator.com/companies/proception-inc",
         "batch": "W25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Robotics",
+        "secondary_category": null
     },
     {
         "id": 43,
@@ -459,7 +541,9 @@
         "website": "https://pave-robotics.com/",
         "ycpage": "https://www.ycombinator.com/companies/pave-robotics",
         "batch": "W25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Robotics",
+        "secondary_category": null
     },
     {
         "id": 44,
@@ -470,7 +554,9 @@
         "website": "https://www.misprint.com/",
         "ycpage": "https://www.ycombinator.com/companies/misprint",
         "batch": "W25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Consumer",
+        "secondary_category": null
     },
     {
         "id": 45,
@@ -481,7 +567,9 @@
         "website": "https://www.conntour.com/",
         "ycpage": "https://www.ycombinator.com/companies/conntour",
         "batch": "W25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Security",
+        "secondary_category": null
     },
     {
         "id": 46,
@@ -492,7 +580,9 @@
         "website": "https://www.inversionsemi.com/",
         "ycpage": "https://www.ycombinator.com/companies/inversion-semiconductor",
         "batch": "W25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Hardware",
+        "secondary_category": null
     },
     {
         "id": 47,
@@ -503,7 +593,9 @@
         "website": "https://www.a1base.com/",
         "ycpage": "https://www.ycombinator.com/companies/a1base",
         "batch": "W25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Social Network",
+        "secondary_category": null
     },
     {
         "id": 48,
@@ -514,7 +606,9 @@
         "website": "https://www.reditus.space/",
         "ycpage": "https://www.ycombinator.com/companies/reditus-space",
         "batch": "W25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Aerospace",
+        "secondary_category": null
     },
     {
         "id": 49,
@@ -525,7 +619,9 @@
         "website": "https://www.enhancedradar.com/",
         "ycpage": "https://www.ycombinator.com/companies/enhanced-radar",
         "batch": "W25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Aerospace",
+        "secondary_category": null
     },
     {
         "id": 50,
@@ -536,7 +632,9 @@
         "website": "https://pax.markets/",
         "ycpage": "https://www.ycombinator.com/companies/pax-markets",
         "batch": "W25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Crypto",
+        "secondary_category": null
     },
     {
         "id": 51,
@@ -547,7 +645,9 @@
         "website": "https://mentra.glass/",
         "ycpage": "https://www.ycombinator.com/companies/mentra",
         "batch": "W25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Hardware",
+        "secondary_category": "Consumer"
     },
     {
         "id": 52,
@@ -558,7 +658,9 @@
         "website": "https://www.promakhos.com/",
         "ycpage": "https://www.ycombinator.com/companies/promakhos-therapeutics",
         "batch": "S21",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Biotech",
+        "secondary_category": null
     },
     {
         "id": 53,
@@ -569,7 +671,9 @@
         "website": "https://blaxel.ai/",
         "ycpage": "https://www.ycombinator.com/companies/blaxel",
         "batch": "X25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Software & Infrastructure & Datacenter",
+        "secondary_category": null
     },
     {
         "id": 54,
@@ -580,18 +684,22 @@
         "website": "https://lyra.so/",
         "ycpage": "https://www.ycombinator.com/companies/lyrahq",
         "batch": "X25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Enterprise",
+        "secondary_category": "Customer Success"
     },
     {
         "id": 55,
         "sortname": "Scalar Field",
         "name": "Scalar Field",
-        "description": "Reinventing the trading terminal — one intelligent agent at a time.",
+        "description": "Reinventing the trading terminal \u2014 one intelligent agent at a time.",
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7b28fd1bee5f680014678e8985405788a687849f.png",
         "website": "https://www.scalarfield.io/",
         "ycpage": "https://www.ycombinator.com/companies/scalar-field",
         "batch": "X25",
-        "showlogobackground": true
+        "showlogobackground": true,
+        "primary_category": "Finance / Fintech",
+        "secondary_category": null
     },
     {
         "id": 56,
@@ -602,7 +710,9 @@
         "website": "https://www.sygaldry.com/",
         "ycpage": "https://www.ycombinator.com/companies/sygaldry-technologies",
         "batch": "X25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Quantum Computing",
+        "secondary_category": null
     },
     {
         "id": 57,
@@ -613,7 +723,9 @@
         "website": "https://www.text.ai/",
         "ycpage": "https://www.ycombinator.com/companies/text-ai",
         "batch": "X25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Consumer",
+        "secondary_category": null
     },
     {
         "id": 58,
@@ -624,7 +736,9 @@
         "website": "https://airweave.ai/",
         "ycpage": "https://www.ycombinator.com/companies/airweave",
         "batch": "X25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Software & Infrastructure & Datacenter",
+        "secondary_category": null
     },
     {
         "id": 59,
@@ -635,7 +749,9 @@
         "website": "https://www.eloquentai.co/",
         "ycpage": "https://www.ycombinator.com/companies/eloquent-ai",
         "batch": "X25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Enterprise",
+        "secondary_category": "Customer Success"
     },
     {
         "id": 61,
@@ -646,7 +762,9 @@
         "website": "https://besimple.ai/",
         "ycpage": "https://www.ycombinator.com/companies/besimple-ai",
         "batch": "X25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Data Annotation & Labeling",
+        "secondary_category": null
     },
     {
         "id": 62,
@@ -657,7 +775,9 @@
         "website": "https://www.jeevyfabrication.com/",
         "ycpage": "https://www.ycombinator.com/companies/jeevy-fabrication",
         "batch": "X25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Manufacturing",
+        "secondary_category": null
     },
     {
         "id": 63,
@@ -668,7 +788,9 @@
         "website": "https://vendra-marketplace.io/",
         "ycpage": "https://www.ycombinator.com/companies/vendra",
         "batch": "S24",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Hardware",
+        "secondary_category": "Manufacturing"
     },
     {
         "id": 65,
@@ -679,7 +801,9 @@
         "website": "https://www.strands.finance/",
         "ycpage": "https://www.strands.finance/",
         "batch": "Non YC",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Crypto",
+        "secondary_category": null
     },
     {
         "id": 66,
@@ -690,8 +814,10 @@
         "website": "https://www.arraylabs.io/",
         "ycpage": "https://www.ycombinator.com/companies/array-labs",
         "batch": "S22",
-        "showlogobackground": false
-    }, 
+        "showlogobackground": false,
+        "primary_category": "Aerospace",
+        "secondary_category": null
+    },
     {
         "id": 67,
         "sortname": "Imprezia",
@@ -701,18 +827,22 @@
         "website": "https://imprezia.ai/",
         "ycpage": "https://www.ycombinator.com/companies/imprezia",
         "batch": "S25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Advertising & Marketing",
+        "secondary_category": null
     },
     {
         "id": 68,
         "sortname": "Perseus Defense",
         "name": "Perseus Defense",
-        "description": "Building America’s Golden Dome for drones",
+        "description": "Building America's Golden Dome for drones",
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5cdd4deac94e3261e5048ff6c4ffdd39942a5840.png",
         "website": "https://perseusdefense.com/",
         "ycpage": "https://www.ycombinator.com/companies/perseus-defense",
         "batch": "S25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Robotics",
+        "secondary_category": "Defense"
     },
     {
         "id": 69,
@@ -723,7 +853,9 @@
         "website": "https://www.boostrobotics.ai",
         "ycpage": "https://www.ycombinator.com/companies/boost-robotics",
         "batch": "X25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Robotics",
+        "secondary_category": null
     },
     {
         "id": 70,
@@ -734,7 +866,9 @@
         "website": "https://www.getasap.asia/",
         "ycpage": "https://www.ycombinator.com/companies/getasap-asia",
         "batch": "S25",
-        "showlogobackground": false
+        "showlogobackground": false,
+        "primary_category": "Logistics",
+        "secondary_category": null
     },
     {
         "id": 71,
@@ -745,9 +879,11 @@
         "website": "https://www.risely.ai/",
         "ycpage": "https://www.ycombinator.com/companies/risely-ai",
         "batch": "S25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Education",
+        "secondary_category": "Productivity"
+    },
+    {
         "id": 72,
         "sortname": "Pally",
         "name": "Pally",
@@ -756,9 +892,11 @@
         "website": "https://pally.com/",
         "ycpage": "https://www.ycombinator.com/companies/pally",
         "batch": "S25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Productivity",
+        "secondary_category": "Enterprise"
+    },
+    {
         "id": 73,
         "sortname": "Closera",
         "name": "Closera",
@@ -767,9 +905,11 @@
         "website": "https://closera.com/",
         "ycpage": "https://www.ycombinator.com/companies/closera",
         "batch": "S25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Real Estate & Management",
+        "secondary_category": null
+    },
+    {
         "id": 74,
         "sortname": "Floot",
         "name": "Floot",
@@ -778,9 +918,11 @@
         "website": "https://floot.com/",
         "ycpage": "https://www.ycombinator.com/companies/floot",
         "batch": "S25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Software & Infrastructure & Datacenter",
+        "secondary_category": null
+    },
+    {
         "id": 75,
         "sortname": "BootLoop",
         "name": "BootLoop",
@@ -789,9 +931,11 @@
         "website": "https://bootloop.ai/",
         "ycpage": "https://www.ycombinator.com/companies/bootloop",
         "batch": "S25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Hardware",
+        "secondary_category": null
+    },
+    {
         "id": 76,
         "sortname": "Blank Bio",
         "name": "Blank Bio",
@@ -800,9 +944,11 @@
         "website": "http://blank.bio/",
         "ycpage": "https://www.ycombinator.com/companies/blank-bio",
         "batch": "S25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Biotech",
+        "secondary_category": null
+    },
+    {
         "id": 77,
         "sortname": "Verne Robotics",
         "name": "Verne Robotics",
@@ -811,9 +957,11 @@
         "website": "https://vernerobotics.com/",
         "ycpage": "https://www.ycombinator.com/companies/verne-robotics",
         "batch": "S25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Robotics",
+        "secondary_category": null
+    },
+    {
         "id": 78,
         "sortname": "RealRoots",
         "name": "RealRoots",
@@ -822,9 +970,11 @@
         "website": "http://www.therealroots.com/",
         "ycpage": "https://www.ycombinator.com/companies/realroots",
         "batch": "S25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Social Network",
+        "secondary_category": "Consumer"
+    },
+    {
         "id": 79,
         "sortname": "The Interface",
         "name": "The Interface",
@@ -833,9 +983,11 @@
         "website": "https://www.theinterface.com/",
         "ycpage": "https://www.ycombinator.com/companies/the-interface",
         "batch": "S25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Entertainment",
+        "secondary_category": "Video / Media"
+    },
+    {
         "id": 80,
         "sortname": "Piggy Robotics",
         "name": "Piggy Robotics",
@@ -844,9 +996,11 @@
         "website": "https://rigmanic.com/",
         "ycpage": "https://www.ycombinator.com/companies/piggy-robotics",
         "batch": "S24",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Robotics",
+        "secondary_category": null
+    },
+    {
         "id": 81,
         "sortname": "Neurable",
         "name": "Neurable",
@@ -855,9 +1009,11 @@
         "website": "https://neurable.com/",
         "ycpage": "https://neurable.com/",
         "batch": "Non YC",
-        "showlogobackground": true
-     },
-     {
+        "showlogobackground": true,
+        "primary_category": "Consumer",
+        "secondary_category": null
+    },
+    {
         "id": 82,
         "sortname": "Icarus",
         "name": "Icarus",
@@ -866,9 +1022,11 @@
         "website": "https://www.icarus.one/",
         "ycpage": "https://www.ycombinator.com/companies/icarus",
         "batch": "F25",
-        "showlogobackground": true
-     },
-     {
+        "showlogobackground": true,
+        "primary_category": "Robotics",
+        "secondary_category": null
+    },
+    {
         "id": 83,
         "sortname": "Cortex AI",
         "name": "Cortex AI",
@@ -877,9 +1035,11 @@
         "website": "https://cortexrobot.ai/",
         "ycpage": "https://www.ycombinator.com/companies/cortex-ai",
         "batch": "F25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Data Annotation & Labeling",
+        "secondary_category": "Robotics"
+    },
+    {
         "id": 84,
         "sortname": "Allus AI",
         "name": "Allus AI",
@@ -888,9 +1048,11 @@
         "website": "https://allus.ai/",
         "ycpage": "https://www.ycombinator.com/companies/allus-ai",
         "batch": "F25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Manufacturing",
+        "secondary_category": "AI"
+    },
+    {
         "id": 85,
         "sortname": "Sunflower",
         "name": "Sunflower",
@@ -899,9 +1061,11 @@
         "website": "https://sunflowersober.com/",
         "ycpage": "https://www.ycombinator.com/companies/sunflower",
         "batch": "F25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "HealthTech",
+        "secondary_category": null
+    },
+    {
         "id": 86,
         "sortname": "Zavo",
         "name": "Zavo",
@@ -910,9 +1074,11 @@
         "website": "https://zavopay.com/",
         "ycpage": "https://www.ycombinator.com/companies/zavo",
         "batch": "F25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Productivity",
+        "secondary_category": "Resturants"
+    },
+    {
         "id": 87,
         "sortname": "Claybird",
         "name": "Claybird",
@@ -921,9 +1087,11 @@
         "website": "https://claybird.com/",
         "ycpage": "https://www.ycombinator.com/companies/claybird",
         "batch": "F25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Advertising & Marketing",
+        "secondary_category": "Video / Media"
+    },
+    {
         "id": 88,
         "sortname": "DiligenceSquared",
         "name": "DiligenceSquared",
@@ -932,9 +1100,11 @@
         "website": "https://diligencesquared.com/",
         "ycpage": "https://www.ycombinator.com/companies/diligencesquared-inc",
         "batch": "F25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Finance / Fintech",
+        "secondary_category": null
+    },
+    {
         "id": 89,
         "sortname": "SellRaze",
         "name": "SellRaze",
@@ -943,9 +1113,11 @@
         "website": "https://sellraze.com/",
         "ycpage": "https://www.ycombinator.com/companies/sellraze",
         "batch": "F25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "E-Commerce",
+        "secondary_category": "Consumer"
+    },
+    {
         "id": 90,
         "sortname": "Hypercubic",
         "name": "Hypercubic",
@@ -954,9 +1126,11 @@
         "website": "https://www.hypercubic.ai/",
         "ycpage": "https://www.ycombinator.com/companies/hypercubic",
         "batch": "F25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Software & Infrastructure",
+        "secondary_category": null
+    },
+    {
         "id": 91,
         "sortname": "Multifactor",
         "name": "Multifactor",
@@ -965,9 +1139,11 @@
         "website": "https://multifactor.com/",
         "ycpage": "https://www.ycombinator.com/companies/multifactor",
         "batch": "F25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Security",
+        "secondary_category": null
+    },
+    {
         "id": 92,
         "sortname": "Sorce",
         "name": "Sorce",
@@ -976,9 +1152,11 @@
         "website": "https://sorce.jobs/",
         "ycpage": "https://www.ycombinator.com/companies/sorce",
         "batch": "F25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "HR",
+        "secondary_category": "Consumer"
+    },
+    {
         "id": 93,
         "sortname": "Hyperspell",
         "name": "Hyperspell",
@@ -987,9 +1165,11 @@
         "website": "https://hyperspell.com/",
         "ycpage": "https://www.ycombinator.com/companies/hyperspell",
         "batch": "F25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "AI",
+        "secondary_category": null
+    },
+    {
         "id": 94,
         "sortname": "Crunched",
         "name": "Crunched",
@@ -998,9 +1178,11 @@
         "website": "https://usecrunched.com/",
         "ycpage": "https://www.ycombinator.com/companies/crunched",
         "batch": "F25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Productivity",
+        "secondary_category": "Enterprise"
+    },
+    {
         "id": 95,
         "sortname": "Uplane",
         "name": "Uplane",
@@ -1009,9 +1191,11 @@
         "website": "https://uplane.com/",
         "ycpage": "https://www.ycombinator.com/companies/uplane",
         "batch": "F25",
-        "showlogobackground": false
-     },
-     {
+        "showlogobackground": false,
+        "primary_category": "Advertising & Marketing",
+        "secondary_category": "E-Commerce"
+    },
+    {
         "id": 96,
         "sortname": "Basalt",
         "name": "Basalt",
@@ -1020,6 +1204,8 @@
         "website": "https://basalt.space/",
         "ycpage": "https://www.ycombinator.com/companies/basalt",
         "batch": "W24",
-        "showlogobackground": false
-     }    
+        "showlogobackground": false,
+        "primary_category": "Aerospace",
+        "secondary_category": null
+    }
 ]
