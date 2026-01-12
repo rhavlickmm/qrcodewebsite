@@ -37,7 +37,7 @@
         "ycpage": "https://www.ycombinator.com/companies/hestus-inc",
         "batch": "S24",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure & Datacenter",
+        "primary_category": "Software & Infrastructure / Datacenter",
         "secondary_category": "Engineering",
         "status": "active"
     },
@@ -79,7 +79,7 @@
         "ycpage": "https://www.ycombinator.com/companies/entangl",
         "batch": "S24",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure & Datacenter",
+        "primary_category": "Software & Infrastructure / Datacenter",
         "secondary_category": null,
         "status": "active"
     },
@@ -359,7 +359,7 @@
         "ycpage": "https://www.ycombinator.com/companies/lune-ai",
         "batch": "F24",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure & Datacenter",
+        "primary_category": "Software & Infrastructure / Datacenter",
         "secondary_category": null,
         "status": "active"
     },
@@ -373,7 +373,7 @@
         "ycpage": "https://www.ycombinator.com/companies/humanlayer",
         "batch": "F24",
         "showlogobackground": true,
-        "primary_category": "Software & Infrastructure",
+        "primary_category": "Software & Infrastructure / Datacenter",
         "secondary_category": null,
         "status": "active"
     },
@@ -401,7 +401,7 @@
         "ycpage": "https://www.ycombinator.com/companies/streamable",
         "batch": "F24",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure & Datacenter",
+        "primary_category": "Software & Infrastructure / Datacenter",
         "secondary_category": null,
         "status": "active"
     },
@@ -415,7 +415,7 @@
         "ycpage": "https://www.ycombinator.com/companies/alex",
         "batch": "F24",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure",
+        "primary_category": "Software & Infrastructure / Datacenter",
         "secondary_category": null,
         "status": "inactive"
     },
@@ -723,7 +723,7 @@
         "ycpage": "https://www.ycombinator.com/companies/blaxel",
         "batch": "X25",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure & Datacenter",
+        "primary_category": "Software & Infrastructure / Datacenter",
         "secondary_category": null,
         "status": "active"
     },
@@ -793,7 +793,7 @@
         "ycpage": "https://www.ycombinator.com/companies/airweave",
         "batch": "X25",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure & Datacenter",
+        "primary_category": "Software & Infrastructure / Datacenter",
         "secondary_category": null,
         "status": "active"
     },
@@ -989,7 +989,7 @@
         "ycpage": "https://www.ycombinator.com/companies/floot",
         "batch": "S25",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure & Datacenter",
+        "primary_category": "Software & Infrastructure / Datacenter",
         "secondary_category": null,
         "status": "active"
     },
@@ -1213,7 +1213,7 @@
         "ycpage": "https://www.ycombinator.com/companies/hypercubic",
         "batch": "F25",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure",
+        "primary_category": "Software & Infrastructure / Datacenter",
         "secondary_category": null,
         "status": "active"
     },
