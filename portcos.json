@@ -1087,8 +1087,8 @@
         "ycpage": "https://neurable.com/",
         "batch": "Non YC",
         "showlogobackground": true,
-        "primary_category": "Consumer",
-        "secondary_category": null,
+        "primary_category": "Brain Compute Interface",
+        "secondary_category": "Consumer",
         "status": "active"
     },
     {
@@ -1101,7 +1101,7 @@
         "ycpage": "https://www.ycombinator.com/companies/icarus",
         "batch": "F25",
         "showlogobackground": true,
-        "primary_category": "Robotics",
+        "primary_category": "Aerospace",
         "secondary_category": null,
         "status": "active"
     },
@@ -1299,6 +1299,20 @@
         "showlogobackground": false,
         "primary_category": "Aerospace",
         "secondary_category": null,
+        "status": "active"
+    },
+    {
+        "id": 97,
+        "sortname": "Stillers Soda",
+        "name": "Stillers Soda",
+        "description": "We're Putting Classic Soda Back On The Map!",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/05acac6bcc5d9a03dbabb03c39fa62276a5ef6ea.png",
+        "website": "https://stillerssoda.com/",
+        "ycpage": "https://stillerssoda.com/",
+        "batch": "Non YC",
+        "showlogobackground": false,
+        "primary_category": "Consumer",
+        "secondary_category": "Food & Beverage",
         "status": "active"
     }
 ]
