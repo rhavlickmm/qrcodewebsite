@@ -60,7 +60,7 @@
         "sortname": "Usul",
         "name": "Usul",
         "description": "Win Defense Contracts with AI",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/1b29fc94915cb31662bedfaa8eda5297b0c9e5bb.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/13cb6bfcfd9da8720538116ad6d82ceae4a1adb9.png",
         "website": "https://www.usul.co/",
         "ycpage": "https://www.ycombinator.com/companies/usul",
         "batch": "S24",
@@ -396,7 +396,7 @@
         "sortname": "Streamable",
         "name": "Streamable",
         "description": "Never IRL stream with issues again.",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d318f4dc19468a1650202defffac7c3b9d4b5b40.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cdee682cffd04f37019b910b81a540343c3ed75e.png",
         "website": "https://streamable.run/",
         "ycpage": "https://www.ycombinator.com/companies/streamable",
         "batch": "F24",
@@ -606,7 +606,7 @@
         "sortname": "Conntour",
         "name": "Conntour",
         "description": "AI to monitor thousands of security cameras.",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e13662a45aaad5a75d32c886f95fbfe0a3d0af5a.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c972b0925a72b8923c709c1b48733059aafb73d3.png",
         "website": "https://www.conntour.com/",
         "ycpage": "https://www.ycombinator.com/companies/conntour",
         "batch": "W25",
@@ -1314,5 +1314,34 @@
         "primary_category": "Consumer",
         "secondary_category": "Food & Beverage",
         "status": "active"
+    },
+    {
+        "id": 99,
+        "sortname": "Kyten Technologies",
+        "name": "Kyten Technologies",
+        "description": "Custom aerospace-grade battery pack factory",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/966b1340bdeb6a7d80ba3f1c34c89a62f57a4bff.png",
+        "website": "https://kytentech.com/",
+        "ycpage": "https://www.ycombinator.com/companies/kyten-technologies",
+        "batch": "W26",
+        "showlogobackground": false,
+        "primary_category": "Hardware",
+        "secondary_category": "Aerospace",
+        "status": "active"
+    },
+    {
+        "id": 100,
+        "sortname": "Ditto Biosciences",
+        "name": "Ditto Biosciences",
+        "description": "Evolutionary therapies for autoimmune disease",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0d5b227bb99dde80a75d7008740db6747b12af69.png",
+        "website": "https://www.dittobio.com/",
+        "ycpage": "https://www.ycombinator.com/companies/kyten-technologies",
+        "batch": "W26",
+        "showlogobackground": false,
+        "primary_category": "Biotech",
+        "secondary_category": "",
+        "status": "active"
     }
+    
 ]
