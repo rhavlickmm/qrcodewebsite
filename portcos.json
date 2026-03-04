@@ -1342,6 +1342,21 @@
         "primary_category": "Biotech",
         "secondary_category": "",
         "status": "active"
-    }
+    },
+    {
+        "id": 101,
+        "sortname": "Corvera",
+        "name": "Corvera",
+        "description": "AI agents for CPG brands",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
+        "website": "https://www.corvera.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/corvera",
+        "batch": "W26",
+        "showlogobackground": false,
+        "primary_category": "Consumer",
+        "secondary_category": "",
+        "status": "active"
+    },
+    
     
 ]
