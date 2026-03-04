@@ -1356,6 +1356,20 @@
         "primary_category": "Consumer",
         "secondary_category": "",
         "status": "active"
+    },
+    {
+        "id": 102,
+        "sortname": "One Robot",
+        "name": "One Robot",
+        "description": "World models for VLA evals and training.",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e234115139eb6fced2e2703ae2ba2ee2d691412c.png",
+        "website": "https://www.onerobot.io/",
+        "ycpage": "https://www.ycombinator.com/companies/one-robot",
+        "batch": "W26",
+        "showlogobackground": false,
+        "primary_category": "Robotics",
+        "secondary_category": "Data Annotation & Labeling",
+        "status": "active"
     }
     
     
