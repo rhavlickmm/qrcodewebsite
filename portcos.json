@@ -1336,7 +1336,7 @@
         "description": "Evolutionary therapies for autoimmune disease",
         "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0d5b227bb99dde80a75d7008740db6747b12af69.png",
         "website": "https://www.dittobio.com/",
-        "ycpage": "https://www.ycombinator.com/companies/kyten-technologies",
+        "ycpage": "https://www.ycombinator.com/companies/ditto-biosciences",
         "batch": "W26",
         "showlogobackground": false,
         "primary_category": "Biotech",
@@ -1354,7 +1354,7 @@
         "batch": "W26",
         "showlogobackground": false,
         "primary_category": "Consumer",
-        "secondary_category": "",
+        "secondary_category": "AI",
         "status": "active"
     },
     {
@@ -1369,6 +1369,20 @@
         "showlogobackground": false,
         "primary_category": "Robotics",
         "secondary_category": "Data Annotation & Labeling",
+        "status": "active"
+    },
+    {
+        "id": 103,
+        "sortname": "Piris Labs",
+        "name": "Piris Labs",
+        "description": "Cerebras-speed inference but scalable",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/cfbd3640d376f89f668901f7449636b7f882fdb6.png",
+        "website": "https://pirislabs.io/",
+        "ycpage": "https://www.ycombinator.com/companies/pirislabs",
+        "batch": "W26",
+        "showlogobackground": false,
+        "primary_category": "Datacenter",
+        "secondary_category": "Hardware",
         "status": "active"
     }
     
