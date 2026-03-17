@@ -23,7 +23,7 @@
         "ycpage": "https://www.ycombinator.com/companies/kontigo",
         "batch": "S24",
         "showlogobackground": false,
-        "primary_category": "Crypto",
+        "primary_category": "Fintech",
         "secondary_category": null,
         "status": "active"
     },
@@ -681,7 +681,7 @@
         "ycpage": "https://www.ycombinator.com/companies/pax-markets",
         "batch": "W25",
         "showlogobackground": false,
-        "primary_category": "Crypto",
+        "primary_category": "Fintech",
         "secondary_category": null,
         "status": "active"
     },
@@ -863,7 +863,7 @@
         "ycpage": "https://www.strands.finance/",
         "batch": "Non YC",
         "showlogobackground": false,
-        "primary_category": "Crypto",
+        "primary_category": "Fintech",
         "secondary_category": null,
         "status": "active"
     },
@@ -1451,7 +1451,7 @@
         "ycpage": "https://www.ycombinator.com/companies/sponge",
         "batch": "W26",
         "showlogobackground": false,
-        "primary_category": "Payments",
+        "primary_category": "Fintech",
         "secondary_category": "Agentic Economy",
         "status": "active"
     },
