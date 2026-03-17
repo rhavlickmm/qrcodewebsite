@@ -1398,6 +1398,78 @@
         "primary_category": "AI",
         "secondary_category": "Hardware",
         "status": "active"
+    },
+    {
+        "id": 105,
+        "sortname": "General Legal",
+        "name": "General Legal",
+        "description": "The AI native law firm for growth stage companies",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4d1ee22f8af278a7604adf3083f1a87027e066a9.png",
+        "website": "https://general.legal",
+        "ycpage": "https://www.ycombinator.com/companies/general-legal",
+        "batch": "W26",
+        "showlogobackground": false,
+        "primary_category": "Legal",
+        "secondary_category": "AI",
+        "status": "active"
+    },
+    {
+        "id": 106,
+        "sortname": "CellType",
+        "name": "CellType",
+        "description": "The agentic drug company. We simulate human biology.",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7626449e8e50e3bcef406586024dca5da4b7918b.png",
+        "website": "https://www.celltype.com/",
+        "ycpage": "https://www.ycombinator.com/companies/celltype",
+        "batch": "W26",
+        "showlogobackground": false,
+        "primary_category": "Biotech",
+        "secondary_category": "AI",
+        "status": "active"
+    },
+    {
+        "id": 107,
+        "sortname": "CodeWisp",
+        "name": "CodeWisp",
+        "description": "Anyone can create real games with AI",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fbb4da2e7614c1fd4c6c439a1afa51661f2fb7dc.png",
+        "website": "https://codewisp.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/codewisp",
+        "batch": "W26",
+        "showlogobackground": false,
+        "primary_category": "Gaming",
+        "secondary_category": "Consumer",
+        "status": "active"
+    },
+    {
+        "id": 108,
+        "sortname": "Sponge",
+        "name": "Sponge",
+        "description": "Financial infrastructure for the agent economy",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2da61e6033e85414e184773d09708a6cc75a2479.png",
+        "website": "https://paysponge.com/",
+        "ycpage": "https://www.ycombinator.com/companies/sponge",
+        "batch": "W26",
+        "showlogobackground": false,
+        "primary_category": "Payments",
+        "secondary_category": "Agentic Economy",
+        "status": "active"
+    },
+    {
+        "id": 109,
+        "sortname": "Zymbly",
+        "name": "Zymbly",
+        "description": "Automates admin for aircraft technicians",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/15c98b3bf7b3907fd2d08caff7a209dd0bc20fd3.png",
+        "website": "https://www.zymbly.com/",
+        "ycpage": "https://www.ycombinator.com/companies/zymbly",
+        "batch": "W26",
+        "showlogobackground": false,
+        "primary_category": "Transportation",
+        "secondary_category": "AI Ops",
+        "status": "active"
     }
+
+    
     
 ]
