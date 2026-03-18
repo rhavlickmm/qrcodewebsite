@@ -1468,8 +1468,34 @@
         "primary_category": "Transportation",
         "secondary_category": "AI Ops",
         "status": "active"
-    }
-
-    
+    },
+    {
+        "id": 110,
+        "sortname": "MNX",
+        "name": "MNX",
+        "description": "The AI Exchange",
+        "logo": "",
+        "website": "https://mnx.fi/",
+        "ycpage": "https://mnx.fi/",
+        "batch": "Non-YC",
+        "showlogobackground": false,
+        "primary_category": "Fintech",
+        "secondary_category": "",
+        "status": "active"
+    },
+    {
+        "id": 111,
+        "sortname": "Beyond Reach Labs",
+        "name": "Beyond Reach Labs",
+        "description": "Space solar arrays that grow to the size of a football field in orbit",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a23843346ae92181428153349c06ed7c8d8a5a0b.png",
+        "website": "https://www.beyondreachlabs.com/",
+        "ycpage": "https://www.ycombinator.com/companies/beyond-reach-labs",
+        "batch": "W26",
+        "showlogobackground": false,
+        "primary_category": "Aerospace",
+        "secondary_category": "",
+        "status": "active"
+    }   
     
 ]
