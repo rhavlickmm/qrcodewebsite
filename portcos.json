@@ -1394,7 +1394,7 @@
         "website": "https://www.multimodal.ventures",
         "ycpage": "https://www.multimodal.ventures",
         "batch": "Non YC",
-        "showlogobackground": true,
+        "showlogobackground": false,
         "primary_category": "AI",
         "secondary_category": "Hardware",
         "status": "active"
@@ -1477,7 +1477,7 @@
         "logo": "https://raw.githubusercontent.com/rhavlickmm/qrcodewebsite/refs/heads/main/logos/MNX.png",
         "website": "https://mnx.fi/",
         "ycpage": "https://mnx.fi/",
-        "batch": "Non-YC",
+        "batch": "Non YC",
         "showlogobackground": false,
         "primary_category": "Fintech",
         "secondary_category": "",
