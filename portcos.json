@@ -1488,7 +1488,7 @@
         "sortname": "Beyond Reach Labs",
         "name": "Beyond Reach Labs",
         "description": "Space solar arrays that grow to the size of a football field in orbit",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a23843346ae92181428153349c06ed7c8d8a5a0b.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/68e78dbe382d51a7e7c3d02cc8ca43db9513c3d4.png",
         "website": "https://www.beyondreachlabs.com/",
         "ycpage": "https://www.ycombinator.com/companies/beyond-reach-labs",
         "batch": "W26",
@@ -1496,6 +1496,34 @@
         "primary_category": "Aerospace",
         "secondary_category": "",
         "status": "active"
-    }   
+    },
+    {
+        "id": 112,
+        "sortname": "Origami Robotics",
+        "name": "Origami Robotics",
+        "description": "Manipulate Anything Robot",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/483745ec0ce0b61b675293fca49bf8749c113c1d.png",
+        "website": "https://www.origami-robotics.com/",
+        "ycpage": "https://www.ycombinator.com/companies/origami-robotics",
+        "batch": "W26",
+        "showlogobackground": false,
+        "primary_category": "Robotics",
+        "secondary_category": "",
+        "status": "active"
+    },
+    {
+        "id": 113,
+        "sortname": "LegalOS",
+        "name": "LegalOS",
+        "description": "The AI-Native Immigration Law Firm",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/bfdd01c1d2dde8d7cec7f0d61a5c75e8551e254d.png",
+        "website": "https://www.legalos.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/legalos",
+        "batch": "W26",
+        "showlogobackground": false,
+        "primary_category": "Legal",
+        "secondary_category": "",
+        "status": "active"
+    }
     
 ]
