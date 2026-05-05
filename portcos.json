@@ -1524,6 +1524,47 @@
         "primary_category": "Legal",
         "secondary_category": "",
         "status": "active"
+    },
+    {
+        "id": 114,
+        "sortname": "ZeroDrift",
+        "name": "ZeroDrift",
+        "description": "The AI Compliance Firewall",
+        "logo": "https://cdn.prod.website-files.com/6981490c51c1e151d4cb9219/698272edf18ab399e2728f23_logo-black.svg",
+        "website": "https://www.zerodrift.ai/",
+        "ycpage": "https://www.zerodrift.ai/",
+        "batch": "Non YC",
+        "showlogobackground": false,
+        "primary_category": "AI",
+        "secondary_category": "",
+        "status": "active"
+    },
+    {
+        "id": 115,
+        "sortname": "Standard Signal",
+        "name": "Standard Signal",
+        "description": "Hedge fund where AI researches and executes every trade",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4a8bb04e2bfc061803541bd6c36efdf20229704c.png",
+        "website": "https://standardsignal.com/",
+        "ycpage": "https://www.ycombinator.com/companies/standard-signal",
+        "batch": "P26",
+        "showlogobackground": false,
+        "primary_category": "Fintech",
+        "secondary_category": "",
+        "status": "active"
+    },
+    {
+        "id": 116,
+        "sortname": "UncertIA",
+        "name": "UncertIA",
+        "description": "Your robots can do more. They just need to waste less energy.",
+        "logo": "https://www.uncertia.org/assets/uncertia-logo.svg",
+        "website": "https://www.uncertia.org/",
+        "ycpage": "https://www.uncertia.org/",
+        "batch": "Non YC",
+        "showlogobackground": false,
+        "primary_category": "Robotics",
+        "secondary_category": "",
+        "status": "active"
     }
-    
 ]
