@@ -1316,20 +1316,6 @@
         "status": "active"
     },
     {
-        "id": 99,
-        "sortname": "Kyten Technologies",
-        "name": "Kyten Technologies",
-        "description": "Custom aerospace-grade battery pack factory",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/966b1340bdeb6a7d80ba3f1c34c89a62f57a4bff.png",
-        "website": "https://kytentech.com/",
-        "ycpage": "https://www.ycombinator.com/companies/kyten-technologies",
-        "batch": "W26",
-        "showlogobackground": false,
-        "primary_category": "Hardware",
-        "secondary_category": "Aerospace",
-        "status": "active"
-    },
-    {
         "id": 100,
         "sortname": "Ditto Biosciences",
         "name": "Ditto Biosciences",
