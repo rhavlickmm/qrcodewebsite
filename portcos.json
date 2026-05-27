@@ -1580,5 +1580,19 @@
         "primary_category": "Real Estate & Management",
         "secondary_category": "",
         "status": "active"
+    },
+    {
+        "id": 119,
+        "sortname": "PerfectBit",
+        "name": "PerfectBit",
+        "description": "Training data for frontier AI labs",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/900c210e3f57ee42221dbb5ea21f81418b553e70.png",
+        "website": "https://perfectbit.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/perfectbit",
+        "batch": "P26",
+        "showlogobackground": false,
+        "primary_category": "AI",
+        "secondary_category": "",
+        "status": "active"
     }
 ]
