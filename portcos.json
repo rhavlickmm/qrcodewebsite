@@ -1552,5 +1552,33 @@
         "primary_category": "Robotics",
         "secondary_category": "",
         "status": "active"
+    },
+    {
+        "id": 117,
+        "sortname": "TapHero",
+        "name": "TapHero",
+        "description": "The Tenant AI Platform That Simplifies Property Management",
+        "logo": "https://taphero.com/wp-content/uploads/2024/01/TH-logo-tm-new.svg",
+        "website": "https://taphero.com/",
+        "ycpage": "https://taphero.com/",
+        "batch": "Non YC",
+        "showlogobackground": false,
+        "primary_category": "Real Estate & Management",
+        "secondary_category": "",
+        "status": "active"
+    },
+    {
+        "id": 118,
+        "sortname": "SmartBricks",
+        "name": "SmartBricks",
+        "description": "The Tenant AI Platform That Simplifies Property Management",
+        "logo": "https://raw.githubusercontent.com/rhavlickmm/qrcodewebsite/refs/heads/main/logos/SmartBricks.png",
+        "website": "https://www.smart-bricks.com/home-usa",
+        "ycpage": "https://www.smart-bricks.com/home-usa",
+        "batch": "Non YC",
+        "showlogobackground": false,
+        "primary_category": "Real Estate & Management",
+        "secondary_category": "",
+        "status": "active"
     }
 ]
