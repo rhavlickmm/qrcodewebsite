@@ -1664,5 +1664,19 @@
         "primary_category": "Energy",
         "secondary_category": "",
         "status": "active"
+    },
+    {
+        "id": 125,
+        "sortname": "Klaimee",
+        "name": "Klaimee",
+        "description": "Liability insurance for AI Agents. You deploy agents, we cover you.",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7b072cf10e5d03192359bbf4a4f1e59c2bed6476.png",
+        "website": "https://www.klaimee.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/klaimee",
+        "batch": "P26",
+        "showlogobackground": false,
+        "primary_category": "InsurTech",
+        "secondary_category": "",
+        "status": "active"
     }
 ]
