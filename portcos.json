@@ -1688,7 +1688,7 @@
         "website": "https://www.synphony.co/",
         "ycpage": "https://www.ycombinator.com/companies/synphony",
         "batch": "P26",
-        "showlogobackground": false,
+        "showlogobackground": true,
         "primary_category": "Robotics",
         "secondary_category": "",
         "status": "active"
