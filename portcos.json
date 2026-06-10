@@ -1678,5 +1678,19 @@
         "primary_category": "InsurTech",
         "secondary_category": "",
         "status": "active"
+    },
+    {
+        "id": 126,
+        "sortname": "Synphony",
+        "name": "Synphony",
+        "description": "robots & software for farms",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/53a6cd89169bae47c2b36df57db7197b466fab96.png",
+        "website": "https://www.synphony.co/",
+        "ycpage": "https://www.ycombinator.com/companies/synphony",
+        "batch": "P26",
+        "showlogobackground": false,
+        "primary_category": "Robotics",
+        "secondary_category": "",
+        "status": "active"
     }
 ]
