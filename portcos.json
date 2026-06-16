@@ -1670,7 +1670,7 @@
         "sortname": "Klaimee",
         "name": "Klaimee",
         "description": "Liability insurance for AI Agents. You deploy agents, we cover you.",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7b072cf10e5d03192359bbf4a4f1e59c2bed6476.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/28ec0b5eb9ee17aca79ca3ae9075dcef5cfe09eb.png",
         "website": "https://www.klaimee.ai/",
         "ycpage": "https://www.ycombinator.com/companies/klaimee",
         "batch": "P26",
@@ -1702,7 +1702,7 @@
         "website": "https://rentahuman.ai/",
         "ycpage": "https://www.ycombinator.com/companies/rentahuman",
         "batch": "P26",
-        "showlogobackground": true,
+        "showlogobackground": false,
         "primary_category": "AI",
         "secondary_category": "",
         "status": "active"
@@ -1716,7 +1716,7 @@
         "website": "https://insforge.dev/",
         "ycpage": "https://www.ycombinator.com/companies/insforge",
         "batch": "P26",
-        "showlogobackground": true,
+        "showlogobackground": false,
         "primary_category": "Software & Infrastructure / Datacenter",
         "secondary_category": "",
         "status": "active"
