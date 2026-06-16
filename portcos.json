@@ -1692,5 +1692,33 @@
         "primary_category": "Robotics",
         "secondary_category": "",
         "status": "active"
+    },
+    {
+        "id": 127,
+        "sortname": "RentAHuman",
+        "name": "RentAHuman",
+        "description": "Marketplace for AI agents to hire humans.",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3b67f36dd87617d3ebd7151d1c77707aaa16c25f.png",
+        "website": "https://rentahuman.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/rentahuman",
+        "batch": "P26",
+        "showlogobackground": true,
+        "primary_category": "AI",
+        "secondary_category": "",
+        "status": "active"
+    },
+    {
+        "id": 128,
+        "sortname": "InsForge",
+        "name": "InsForge",
+        "description": "The agent-native AWS",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
+        "website": "https://insforge.dev/",
+        "ycpage": "https://www.ycombinator.com/companies/insforge",
+        "batch": "P26",
+        "showlogobackground": true,
+        "primary_category": "Software & Infrastructure / Datacenter",
+        "secondary_category": "",
+        "status": "active"
     }
 ]
