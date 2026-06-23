@@ -1720,5 +1720,19 @@
         "primary_category": "Software & Infrastructure / Datacenter",
         "secondary_category": "",
         "status": "active"
+    },
+    {
+        "id": 129,
+        "sortname": "matforge",
+        "name": "matforge",
+        "description": "AI scientists to discover materials for the semiconductor industry.",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/910cd5b0344664a22b57c59a7d459cabe1095bee.png",
+        "website": "https://matforge.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/matforge",
+        "batch": "P26",
+        "showlogobackground": false,
+        "primary_category": "AI",
+        "secondary_category": "Material Science",
+        "status": "active"
     }
 ]
