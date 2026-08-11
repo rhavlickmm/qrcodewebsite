@@ -1734,5 +1734,21 @@
         "primary_category": "AI",
         "secondary_category": "Material Science",
         "status": "active"
+    },
+    {
+        "id": 130,
+        "sortname": "Isengard Industries Inc",
+        "name": "Isengard Industries Inc",
+        "description": "Mass-produced AI strike systems and Counter-UAS",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/17f019cfd01fa25a85e88f6a43f39d133e5ecaff.png",
+        "website": "http://isengardindustries.com/",
+        "ycpage": "https://www.ycombinator.com/companies/isengard-industries-inc",
+        "batch": "S26",
+        "showlogobackground": false,
+        "primary_category": "Defense",
+        "secondary_category": "Aerospace",
+        "status": "active"
     }
+
+    
 ]
