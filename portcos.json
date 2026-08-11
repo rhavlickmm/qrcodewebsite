@@ -1723,12 +1723,12 @@
     },
     {
         "id": 129,
-        "sortname": "matforge",
-        "name": "matforge",
+        "sortname": "Discovered Materials",
+        "name": "Discovered Materials",
         "description": "AI scientists to discover materials for the semiconductor industry.",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/910cd5b0344664a22b57c59a7d459cabe1095bee.png",
-        "website": "https://matforge.ai/",
-        "ycpage": "https://www.ycombinator.com/companies/matforge",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8369f21b7293d92e30b956a07f47bda16f550d10.png",
+        "website": "https://discoveredmaterials.com/",
+        "ycpage": "https://www.ycombinator.com/companies/discovered-materials",
         "batch": "P26",
         "showlogobackground": false,
         "primary_category": "AI",
@@ -1748,7 +1748,33 @@
         "primary_category": "Defense",
         "secondary_category": "Aerospace",
         "status": "active"
-    }
-
-    
+    },
+    {
+        "id": 131,
+        "sortname": "Datoric",
+        "name": "Datoric",
+        "description": "Security-first training data",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/fa894803120df3a3a9250c66e4232e33e2a223d0.png",
+        "website": "https://www.datoric.com/",
+        "ycpage": "https://www.ycombinator.com/companies/datoric",
+        "batch": "S26",
+        "showlogobackground": false,
+        "primary_category": "AI",
+        "secondary_category": "",
+        "status": "active"
+    },
+    {
+        "id": 132,
+        "sortname": "Archean Sciences",
+        "name": "Archean Sciences",
+        "description": "Engineering Living Intelligence",
+        "logo": "https://archean.bio/branding/archean_logo_transparent.png",
+        "website": "https://archean.bio/",
+        "ycpage": "https://archean.bio/",
+        "batch": "Non YC",
+        "showlogobackground": false,
+        "primary_category": "AI",
+        "secondary_category": "Biotech",
+        "status": "active"
+    }    
 ]
