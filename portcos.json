@@ -1762,5 +1762,19 @@
         "primary_category": "AI",
         "secondary_category": "Biotech",
         "status": "active"
+    },
+    {
+        "id": 133,
+        "sortname": "Prescience, Inc.",
+        "name": "Prescience, Inc.",
+        "description": "Healthcare for the age of abundant intelligence.",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9318ef0555c0ad2e5ce6049908b655658d073f1f.png",
+        "website": "https://www.getprescience.com/",
+        "ycpage": "https://www.getprescience.com/",
+        "batch": "S26",
+        "showlogobackground": false,
+        "primary_category": "InsurTech",
+        "secondary_category": "HealthTech",
+        "status": "active"
     }    
 ]
