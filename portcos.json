@@ -1730,7 +1730,7 @@
         "website": "http://isengardindustries.com/",
         "ycpage": "https://www.ycombinator.com/companies/isengard-industries-inc",
         "batch": "S26",
-        "showlogobackground": false,
+        "showlogobackground": true,
         "primary_category": "Defense",
         "secondary_category": "Aerospace",
         "status": "active"
