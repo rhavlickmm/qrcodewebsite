@@ -1776,5 +1776,19 @@
         "primary_category": "InsurTech",
         "secondary_category": "HealthTech",
         "status": "active"
-    }    
+    },
+    {
+        "id": 134,
+        "sortname": "Prodigy Research",
+        "name": "Prodigy Research",
+        "description": "Training the world's best foundation model for quantitative finance.",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a2db1ee59cf597cd664444e784ae76e1f753d775.png",
+        "website": "https://prodigy.markets/",
+        "ycpage": "https://www.ycombinator.com/companies/prodigy-research",
+        "batch": "S26",
+        "showlogobackground": false,
+        "primary_category": "FinTech",
+        "secondary_category": "",
+        "status": "active"
+    }  
 ]
