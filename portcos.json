@@ -1805,4 +1805,32 @@
         "secondary_category": "",
         "status": "active"
     },
+    {
+        "id": 136,
+        "sortname": "Lumeria",
+        "name": "Lumeria",
+        "description": "Oura Ring for Skin",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5911b0640b4a7b63825ae466fa73c1fc1b24c0a3.png",
+        "website": "https://lumeria.skin/",
+        "ycpage": "https://www.ycombinator.com/companies/lumeria",
+        "batch": "S26",
+        "showlogobackground": false,
+        "primary_category": "HealthTech",
+        "secondary_category": "",
+        "status": "active"
+    },
+    {
+        "id": 137,
+        "sortname": "Graphify Labs",
+        "name": "Graphify Labs",
+        "description": "On-device knowledge graph engine for enterprises",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0f86336cad3f47d72897d04916a12380f1f0094b.png",
+        "website": "https://www.graphify.com/",
+        "ycpage": "https://www.ycombinator.com/companies/graphify-labs",
+        "batch": "S26",
+        "showlogobackground": false,
+        "primary_category": "Software & Infrastructure / Datacenter",
+        "secondary_category": "",
+        "status": "active"
+    },
 ]
