@@ -37,7 +37,7 @@
         "ycpage": "https://www.ycombinator.com/companies/hestus-inc",
         "batch": "S24",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure / Datacenter",
+        "primary_category": "Software & Infrastructure",
         "secondary_category": "Engineering",
         "status": "active"
     },
@@ -79,7 +79,7 @@
         "ycpage": "https://www.ycombinator.com/companies/entangl",
         "batch": "S24",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure / Datacenter",
+        "primary_category": "Datacenter",
         "secondary_category": null,
         "status": "active"
     },
@@ -345,21 +345,21 @@
         "ycpage": "https://www.ycombinator.com/companies/cosine",
         "batch": "W23",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure / Datacenter",
+        "primary_category": "Software / Infrastructure",
         "secondary_category": null,
         "status": "active"
     },
     {
         "id": 27,
-        "sortname": "Cosmic",
-        "name": "Cosmic",
-        "description": "Build At Light Speed",
-        "logo": "https://github.com/rhavlickmm/qrcodewebsite/blob/bc74982f5a15b1dec3daa91b31f702fd6a59ebda/logos/cosmic.png?raw=true",
-        "website": "https://www.cosmic.new/",
-        "ycpage": "https://www.ycombinator.com/companies/lune-ai",
+        "sortname": "Endstack",
+        "name": "Endstack",
+        "description": "The complete, collaborative workspace for humans and agents",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3b2d3d74e1b66a985b5ff4da594128358d243158.png",
+        "website": "https://www.endstack.com/",
+        "ycpage": "https://www.ycombinator.com/companies/endstack",
         "batch": "F24",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure / Datacenter",
+        "primary_category": "Software / Infrastructure",
         "secondary_category": null,
         "status": "active"
     },
@@ -373,7 +373,7 @@
         "ycpage": "https://www.ycombinator.com/companies/humanlayer",
         "batch": "F24",
         "showlogobackground": true,
-        "primary_category": "Software & Infrastructure / Datacenter",
+        "primary_category": "Software / Infrastructure",
         "secondary_category": null,
         "status": "active"
     },
@@ -401,7 +401,7 @@
         "ycpage": "https://www.ycombinator.com/companies/streamable",
         "batch": "F24",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure / Datacenter",
+        "primary_category": "Software / Infrastructure",
         "secondary_category": null,
         "status": "active"
     },
@@ -415,7 +415,7 @@
         "ycpage": "https://www.ycombinator.com/companies/alex",
         "batch": "F24",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure / Datacenter",
+        "primary_category": "Software / Infrastructure",
         "secondary_category": null,
         "status": "acquired"
     },
@@ -723,7 +723,7 @@
         "ycpage": "https://www.ycombinator.com/companies/blaxel",
         "batch": "X25",
         "showlogobackground": true,
-        "primary_category": "Software & Infrastructure / Datacenter",
+        "primary_category": "Software / Infrastructure",
         "secondary_category": null,
         "status": "acquired"
     },
@@ -737,8 +737,8 @@
         "ycpage": "https://www.ycombinator.com/companies/irbc",
         "batch": "X25",
         "showlogobackground": false,
-        "primary_category": "AI",
-        "secondary_category": "Fintech",
+        "primary_category": "Fintech",
+        "secondary_category": "",
         "status": "active"
     },
     {
@@ -793,7 +793,7 @@
         "ycpage": "https://www.ycombinator.com/companies/airweave",
         "batch": "X25",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure / Datacenter",
+        "primary_category": "Software / Infrastructure",
         "secondary_category": null,
         "status": "active"
     },
@@ -821,7 +821,7 @@
         "ycpage": "https://www.ycombinator.com/companies/besimple-ai",
         "batch": "X25",
         "showlogobackground": false,
-        "primary_category": "Data Annotation & Labeling",
+        "primary_category": "Data Foundry",
         "secondary_category": null,
         "status": "active"
     },
@@ -989,7 +989,7 @@
         "ycpage": "https://www.ycombinator.com/companies/floot",
         "batch": "S25",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure / Datacenter",
+        "primary_category": "Software / Infrastructure",
         "secondary_category": null,
         "status": "active"
     },
@@ -1059,7 +1059,7 @@
         "ycpage": "https://www.ycombinator.com/companies/onestop",
         "batch": "S25",
         "showlogobackground": false,
-        "primary_category": "AI",
+        "primary_category": "Consumer",
         "secondary_category": "",
         "status": "active"
     },
@@ -1087,7 +1087,7 @@
         "ycpage": "https://neurable.com/",
         "batch": "Non YC",
         "showlogobackground": true,
-        "primary_category": "Brain Compute Interface",
+        "primary_category": "Neurotech",
         "secondary_category": "Consumer",
         "status": "active"
     },
@@ -1115,7 +1115,7 @@
         "ycpage": "https://www.ycombinator.com/companies/cortex-ai",
         "batch": "F25",
         "showlogobackground": false,
-        "primary_category": "Data Annotation & Labeling",
+        "primary_category": "Data Foundry",
         "secondary_category": "Robotics",
         "status": "active"
     },
@@ -1213,7 +1213,7 @@
         "ycpage": "https://www.ycombinator.com/companies/hypercubic",
         "batch": "F25",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure / Datacenter",
+        "primary_category": "Software / Infrastructure",
         "secondary_category": null,
         "status": "active"
     },
@@ -1619,7 +1619,7 @@
         "ycpage": "https://www.ycombinator.com/companies/adialante",
         "batch": "P26",
         "showlogobackground": false,
-        "primary_category": "Biotech",
+        "primary_category": "HealthTech",
         "secondary_category": "AI",
         "status": "active"
     },
@@ -1703,7 +1703,7 @@
         "ycpage": "https://www.ycombinator.com/companies/insforge",
         "batch": "P26",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure / Datacenter",
+        "primary_category": "Software / Infrastructure",
         "secondary_category": "",
         "status": "active"
     },
@@ -1745,7 +1745,7 @@
         "ycpage": "https://www.ycombinator.com/companies/datoric",
         "batch": "S26",
         "showlogobackground": false,
-        "primary_category": "AI",
+        "primary_category": "Data Foundry",
         "secondary_category": "",
         "status": "active"
     },
@@ -1759,7 +1759,7 @@
         "ycpage": "https://archean.bio/",
         "batch": "Non YC",
         "showlogobackground": false,
-        "primary_category": "AI",
+        "primary_category": "Neurotech",
         "secondary_category": "Biotech",
         "status": "active"
     },
@@ -1829,7 +1829,7 @@
         "ycpage": "https://www.ycombinator.com/companies/graphify-labs",
         "batch": "S26",
         "showlogobackground": false,
-        "primary_category": "Software & Infrastructure / Datacenter",
+        "primary_category": "Software / Infrastructure",
         "secondary_category": "",
         "status": "active"
     }
