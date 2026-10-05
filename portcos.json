@@ -406,20 +406,6 @@
         "status": "active"
     },
     {
-        "id": 31,
-        "sortname": "Alex",
-        "name": "Alex",
-        "description": "The Cursor for Xcode",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/211bbe719ecb6e8800789a12c674df98b2a1fb49.png",
-        "website": "https://alexcodes.app/",
-        "ycpage": "https://www.ycombinator.com/companies/alex",
-        "batch": "F24",
-        "showlogobackground": false,
-        "primary_category": "Software / Infrastructure",
-        "secondary_category": null,
-        "status": "acquired"
-    },
-    {
         "id": 32,
         "sortname": "Keye",
         "name": "Keye",
@@ -597,8 +583,8 @@
         "ycpage": "https://www.ycombinator.com/companies/misprint",
         "batch": "W25",
         "showlogobackground": false,
-        "primary_category": "Consumer",
-        "secondary_category": null,
+        "primary_category": "E-Commerce",
+        "secondary_category": Consumer,
         "status": "active"
     },
     {
@@ -807,8 +793,8 @@
         "ycpage": "https://www.ycombinator.com/companies/eloquent-ai",
         "batch": "X25",
         "showlogobackground": false,
-        "primary_category": "Enterprise",
-        "secondary_category": "Customer Success",
+        "primary_category": "Finance / Fintech",
+        "secondary_category": "Enterprise",
         "status": "active"
     },
     {
@@ -905,8 +891,8 @@
         "ycpage": "https://www.ycombinator.com/companies/perseus-defense",
         "batch": "S25",
         "showlogobackground": false,
-        "primary_category": "Robotics",
-        "secondary_category": "Defense",
+        "primary_category": "Defense",
+        "secondary_category": "",
         "status": "active"
     },
     {
@@ -1577,8 +1563,8 @@
         "ycpage": "https://www.ycombinator.com/companies/perfectbit",
         "batch": "P26",
         "showlogobackground": false,
-        "primary_category": "AI",
-        "secondary_category": "",
+        "primary_category": "Robotics",
+        "secondary_category": "AI",
         "status": "active"
     },
     {
