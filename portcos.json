@@ -584,7 +584,7 @@
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "E-Commerce",
-        "secondary_category": Consumer,
+        "secondary_category": "Consumer",
         "status": "active"
     },
     {
