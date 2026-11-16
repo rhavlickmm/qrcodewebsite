@@ -11,7 +11,8 @@
         "showlogobackground": true,
         "primary_category": "Finance / Fintech",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 2,
@@ -25,7 +26,8 @@
         "showlogobackground": false,
         "primary_category": "Finance / Fintech",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 3,
@@ -39,7 +41,8 @@
         "showlogobackground": false,
         "primary_category": "Software / Infrastructure",
         "secondary_category": "Engineering",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 4,
@@ -53,7 +56,8 @@
         "showlogobackground": false,
         "primary_category": "Robotics",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 5,
@@ -67,7 +71,8 @@
         "showlogobackground": false,
         "primary_category": "Defense",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 6,
@@ -81,7 +86,8 @@
         "showlogobackground": false,
         "primary_category": "Datacenter",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 7,
@@ -95,7 +101,8 @@
         "showlogobackground": false,
         "primary_category": "Hardware",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 8,
@@ -109,7 +116,8 @@
         "showlogobackground": false,
         "primary_category": "Defense",
         "secondary_category": "Aerospace",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 9,
@@ -123,7 +131,8 @@
         "showlogobackground": false,
         "primary_category": "Biotech",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 10,
@@ -137,7 +146,8 @@
         "showlogobackground": false,
         "primary_category": "Security",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 11,
@@ -151,7 +161,8 @@
         "showlogobackground": false,
         "primary_category": "Quantum Computing",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 12,
@@ -165,7 +176,8 @@
         "showlogobackground": false,
         "primary_category": "Security",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 13,
@@ -179,7 +191,8 @@
         "showlogobackground": false,
         "primary_category": "AI",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 14,
@@ -193,7 +206,8 @@
         "showlogobackground": false,
         "primary_category": "Real Estate & Management",
         "secondary_category": "Consumer",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 15,
@@ -207,7 +221,8 @@
         "showlogobackground": false,
         "primary_category": "AI",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 16,
@@ -221,7 +236,8 @@
         "showlogobackground": false,
         "primary_category": "Robotics",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 17,
@@ -235,7 +251,8 @@
         "showlogobackground": false,
         "primary_category": "AI",
         "secondary_category": "Advertising & Marketing",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 18,
@@ -249,7 +266,8 @@
         "showlogobackground": false,
         "primary_category": "Productivity",
         "secondary_category": "Tax",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 19,
@@ -263,7 +281,8 @@
         "showlogobackground": true,
         "primary_category": "Hardware",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 20,
@@ -277,7 +296,8 @@
         "showlogobackground": false,
         "primary_category": "Biotech",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 21,
@@ -291,7 +311,8 @@
         "showlogobackground": false,
         "primary_category": "HR",
         "secondary_category": "Enterprise",
-        "status": "acquired"
+        "status": "acquired",
+        "fund": "Fund I"
     },
     {
         "id": 22,
@@ -305,7 +326,8 @@
         "showlogobackground": false,
         "primary_category": "Biotech",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 23,
@@ -319,7 +341,8 @@
         "showlogobackground": false,
         "primary_category": "GovTech",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 24,
@@ -333,7 +356,8 @@
         "showlogobackground": false,
         "primary_category": "Robotics",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 25,
@@ -347,7 +371,8 @@
         "showlogobackground": false,
         "primary_category": "Software / Infrastructure",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 27,
@@ -361,7 +386,8 @@
         "showlogobackground": false,
         "primary_category": "Software / Infrastructure",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 28,
@@ -375,7 +401,8 @@
         "showlogobackground": true,
         "primary_category": "Software / Infrastructure",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 29,
@@ -389,7 +416,8 @@
         "showlogobackground": false,
         "primary_category": "Private Equity",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 30,
@@ -403,7 +431,8 @@
         "showlogobackground": false,
         "primary_category": "Software / Infrastructure",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 32,
@@ -417,7 +446,8 @@
         "showlogobackground": false,
         "primary_category": "Private Equity",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 33,
@@ -431,7 +461,8 @@
         "showlogobackground": false,
         "primary_category": "HealthTech",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 34,
@@ -445,7 +476,8 @@
         "showlogobackground": false,
         "primary_category": "HealthTech",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 35,
@@ -459,7 +491,8 @@
         "showlogobackground": false,
         "primary_category": "Robotics",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 36,
@@ -473,7 +506,8 @@
         "showlogobackground": false,
         "primary_category": "AI",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 37,
@@ -487,21 +521,23 @@
         "showlogobackground": false,
         "primary_category": "Private Equity",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 38,
         "sortname": "Exin Therapeutics",
         "name": "Exin Therapeutics",
         "description": "Precision genetic therapies targeting neural activity across disorders",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/61d9c34b51f9b98cbfdb92bc0014e3569c29b36c.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/635299b51df3aa2c7acb4b5c679a9b0b74fdaf5b.png",
         "website": "https://www.exintherapeutics.com/",
         "ycpage": "https://www.ycombinator.com/companies/exin-therapeutics",
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "Biotech",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 39,
@@ -515,7 +551,8 @@
         "showlogobackground": true,
         "primary_category": "Productivity",
         "secondary_category": "Enterprise",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 40,
@@ -529,21 +566,23 @@
         "showlogobackground": true,
         "primary_category": "Legal",
         "secondary_category": "Enterprise",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 41,
         "sortname": "Artificial Societies",
         "name": "Artificial Societies",
         "description": "We use AI to simulate large groups of people and how they interact",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/3f1ebd1806463e3909d4a1f7b197b6c3788ebf4c.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4b3909ae6042c4c2c9f3eda0ecfb1cf5f8ab4c02.png",
         "website": "https://societies.io/",
         "ycpage": "https://www.ycombinator.com/companies/artificial-societies",
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "Advertising & Marketing",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 42,
@@ -557,7 +596,8 @@
         "showlogobackground": false,
         "primary_category": "Robotics",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 43,
@@ -571,7 +611,8 @@
         "showlogobackground": false,
         "primary_category": "Robotics",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 44,
@@ -585,7 +626,8 @@
         "showlogobackground": false,
         "primary_category": "E-Commerce",
         "secondary_category": "Consumer",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 45,
@@ -599,7 +641,8 @@
         "showlogobackground": false,
         "primary_category": "Security",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 46,
@@ -613,21 +656,23 @@
         "showlogobackground": false,
         "primary_category": "Hardware",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 47,
         "sortname": "A1Base",
         "name": "A1Base",
         "description": "Twilio for AI Agents",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9b25e6db85435aae7d3185331b3d10ca0ba1f730.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/324e9d6a709cf130925173197ab778a682e2aca3.png",
         "website": "https://www.a1base.com/",
         "ycpage": "https://www.ycombinator.com/companies/a1base",
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "Social Network",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 48,
@@ -641,21 +686,23 @@
         "showlogobackground": false,
         "primary_category": "Aerospace",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 49,
         "sortname": "Enhanced Radar",
         "name": "Enhanced Radar",
         "description": "AI for air traffic control",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/97af6428ccfdfbaa94b52ffdadc13d8b1f2609b3.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e10734051ac91f13f36d26eb75fc983d06a0c0f6.png",
         "website": "https://www.enhancedradar.com/",
         "ycpage": "https://www.ycombinator.com/companies/enhanced-radar",
         "batch": "W25",
         "showlogobackground": false,
         "primary_category": "Aerospace",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 50,
@@ -669,7 +716,8 @@
         "showlogobackground": false,
         "primary_category": "Finance / Fintech",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 51,
@@ -683,7 +731,8 @@
         "showlogobackground": false,
         "primary_category": "Hardware",
         "secondary_category": "Consumer",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 52,
@@ -697,7 +746,8 @@
         "showlogobackground": false,
         "primary_category": "Biotech",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 53,
@@ -711,7 +761,8 @@
         "showlogobackground": true,
         "primary_category": "Software / Infrastructure",
         "secondary_category": null,
-        "status": "acquired"
+        "status": "acquired",
+        "fund": "Fund I"
     },
     {
         "id": 54,
@@ -725,7 +776,8 @@
         "showlogobackground": false,
         "primary_category": "Finance / Fintech",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 55,
@@ -739,7 +791,8 @@
         "showlogobackground": true,
         "primary_category": "Finance / Fintech",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 56,
@@ -753,7 +806,8 @@
         "showlogobackground": false,
         "primary_category": "Quantum Computing",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 57,
@@ -767,7 +821,8 @@
         "showlogobackground": false,
         "primary_category": "Consumer",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 58,
@@ -781,7 +836,8 @@
         "showlogobackground": false,
         "primary_category": "Software / Infrastructure",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 59,
@@ -795,7 +851,8 @@
         "showlogobackground": false,
         "primary_category": "Finance / Fintech",
         "secondary_category": "Enterprise",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 61,
@@ -809,7 +866,8 @@
         "showlogobackground": false,
         "primary_category": "Data Foundry",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 62,
@@ -823,7 +881,8 @@
         "showlogobackground": false,
         "primary_category": "Manufacturing",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 63,
@@ -837,7 +896,8 @@
         "showlogobackground": false,
         "primary_category": "Manufacturing",
         "secondary_category": "Hardware",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 65,
@@ -851,7 +911,8 @@
         "showlogobackground": false,
         "primary_category": "Finance / Fintech",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 66,
@@ -865,7 +926,8 @@
         "showlogobackground": false,
         "primary_category": "Aerospace",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 67,
@@ -879,7 +941,8 @@
         "showlogobackground": false,
         "primary_category": "Advertising & Marketing",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 68,
@@ -893,7 +956,8 @@
         "showlogobackground": false,
         "primary_category": "Defense",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 69,
@@ -907,7 +971,8 @@
         "showlogobackground": false,
         "primary_category": "Robotics",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 70,
@@ -921,7 +986,8 @@
         "showlogobackground": false,
         "primary_category": "Logistics",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 71,
@@ -935,7 +1001,8 @@
         "showlogobackground": false,
         "primary_category": "EdTech",
         "secondary_category": "Productivity",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 72,
@@ -949,7 +1016,8 @@
         "showlogobackground": false,
         "primary_category": "Productivity",
         "secondary_category": "Enterprise",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 73,
@@ -963,7 +1031,8 @@
         "showlogobackground": false,
         "primary_category": "Real Estate & Management",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 74,
@@ -977,7 +1046,8 @@
         "showlogobackground": false,
         "primary_category": "Software / Infrastructure",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 75,
@@ -991,7 +1061,8 @@
         "showlogobackground": false,
         "primary_category": "Hardware",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 76,
@@ -1005,21 +1076,23 @@
         "showlogobackground": false,
         "primary_category": "Biotech",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 77,
         "sortname": "Verne Robotics",
         "name": "Verne Robotics",
         "description": "AI models that teach robots new skills in hours",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/08842805c015165cf0d7e591168f2b15a9e9c85a.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d892cc07af7461203238df538f63d3eafe2a9635.png",
         "website": "https://vernerobotics.com/",
         "ycpage": "https://www.ycombinator.com/companies/verne-robotics",
         "batch": "S25",
         "showlogobackground": false,
         "primary_category": "Robotics",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 78,
@@ -1033,21 +1106,23 @@
         "showlogobackground": false,
         "primary_category": "Social Network",
         "secondary_category": "Consumer",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 79,
         "sortname": "OneStop",
         "name": "OneStop",
         "description": "The local internet for NYC.",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f9e554a3ff6dc01974ba5721cbfdc8ce21a2a2da.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/61442a42543f111e02cb1ffebe442a2885b633ab.png",
         "website": "https://www.askonestop.com/",
         "ycpage": "https://www.ycombinator.com/companies/onestop",
         "batch": "S25",
         "showlogobackground": false,
         "primary_category": "Consumer",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 80,
@@ -1061,7 +1136,8 @@
         "showlogobackground": false,
         "primary_category": "Robotics",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 81,
@@ -1075,7 +1151,8 @@
         "showlogobackground": true,
         "primary_category": "Neurotech",
         "secondary_category": "Consumer",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 82,
@@ -1089,7 +1166,8 @@
         "showlogobackground": true,
         "primary_category": "Aerospace",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 83,
@@ -1103,7 +1181,8 @@
         "showlogobackground": false,
         "primary_category": "Data Foundry",
         "secondary_category": "Robotics",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 84,
@@ -1117,7 +1196,8 @@
         "showlogobackground": false,
         "primary_category": "Manufacturing",
         "secondary_category": "AI",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 85,
@@ -1131,35 +1211,38 @@
         "showlogobackground": false,
         "primary_category": "HealthTech",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 86,
         "sortname": "Zavo",
         "name": "Zavo",
         "description": "AI Point of Sale for Restaurants",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/6c070e5b38f25a46eb16f93b2a21cfccf8ec446a.png",
         "website": "https://zavopay.com/",
         "ycpage": "https://www.ycombinator.com/companies/zavo",
         "batch": "F25",
         "showlogobackground": false,
         "primary_category": "Productivity",
         "secondary_category": "Resturants",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 87,
         "sortname": "Antigen",
         "name": "Antigen",
         "description": "Continuous offensive security for the enterprise.",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/714f71e97009698c591e79370e41cb52734e724e.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8dccef83823a85d888578112126c72cae4a92e61.png",
         "website": "https://antigen.sh/",
         "ycpage": "https://www.ycombinator.com/companies/antigen",
         "batch": "F25",
         "showlogobackground": false,
         "primary_category": "Security",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 88,
@@ -1173,7 +1256,8 @@
         "showlogobackground": false,
         "primary_category": "Finance / Fintech",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 89,
@@ -1187,7 +1271,8 @@
         "showlogobackground": false,
         "primary_category": "E-Commerce",
         "secondary_category": "Consumer",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 90,
@@ -1201,7 +1286,8 @@
         "showlogobackground": false,
         "primary_category": "Software / Infrastructure",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 91,
@@ -1215,7 +1301,8 @@
         "showlogobackground": false,
         "primary_category": "Security",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 92,
@@ -1229,7 +1316,8 @@
         "showlogobackground": false,
         "primary_category": "HR",
         "secondary_category": "Consumer",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 93,
@@ -1243,7 +1331,8 @@
         "showlogobackground": false,
         "primary_category": "AI",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 94,
@@ -1257,7 +1346,8 @@
         "showlogobackground": false,
         "primary_category": "Productivity",
         "secondary_category": "Enterprise",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 95,
@@ -1271,7 +1361,8 @@
         "showlogobackground": false,
         "primary_category": "Advertising & Marketing",
         "secondary_category": "E-Commerce",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 96,
@@ -1285,7 +1376,8 @@
         "showlogobackground": false,
         "primary_category": "Aerospace",
         "secondary_category": null,
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 97,
@@ -1299,7 +1391,8 @@
         "showlogobackground": false,
         "primary_category": "Consumer",
         "secondary_category": "Food & Beverage",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 100,
@@ -1313,7 +1406,8 @@
         "showlogobackground": false,
         "primary_category": "Biotech",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 101,
@@ -1327,7 +1421,8 @@
         "showlogobackground": false,
         "primary_category": "Consumer",
         "secondary_category": "AI",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 102,
@@ -1341,7 +1436,8 @@
         "showlogobackground": false,
         "primary_category": "Robotics",
         "secondary_category": "Data Annotation & Labeling",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 103,
@@ -1355,7 +1451,8 @@
         "showlogobackground": false,
         "primary_category": "Datacenter",
         "secondary_category": "Hardware",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 104,
@@ -1369,7 +1466,8 @@
         "showlogobackground": false,
         "primary_category": "AI",
         "secondary_category": "Hardware",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 105,
@@ -1383,7 +1481,8 @@
         "showlogobackground": false,
         "primary_category": "Legal",
         "secondary_category": "AI",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 106,
@@ -1397,7 +1496,8 @@
         "showlogobackground": false,
         "primary_category": "Biotech",
         "secondary_category": "AI",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 107,
@@ -1411,7 +1511,8 @@
         "showlogobackground": false,
         "primary_category": "Entertainment",
         "secondary_category": "Consumer",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 108,
@@ -1425,7 +1526,8 @@
         "showlogobackground": false,
         "primary_category": "Finance / Fintech",
         "secondary_category": "Agentic Economy",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 109,
@@ -1439,7 +1541,8 @@
         "showlogobackground": false,
         "primary_category": "Transportation",
         "secondary_category": "AI Ops",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 110,
@@ -1453,7 +1556,8 @@
         "showlogobackground": false,
         "primary_category": "Finance / Fintech",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 111,
@@ -1467,7 +1571,8 @@
         "showlogobackground": false,
         "primary_category": "Aerospace",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 112,
@@ -1481,7 +1586,8 @@
         "showlogobackground": false,
         "primary_category": "Robotics",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 113,
@@ -1495,13 +1601,14 @@
         "showlogobackground": false,
         "primary_category": "Legal",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 114,
         "sortname": "ZeroDrift",
         "name": "ZeroDrift",
-        "description": "The AI Compliance Firewall",
+        "description": "The AI Compliance Firewall",
         "logo": "https://cdn.prod.website-files.com/6981490c51c1e151d4cb9219/698272edf18ab399e2728f23_logo-black.svg",
         "website": "https://www.zerodrift.ai/",
         "ycpage": "https://www.zerodrift.ai/",
@@ -1509,7 +1616,8 @@
         "showlogobackground": true,
         "primary_category": "AI",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 115,
@@ -1523,7 +1631,8 @@
         "showlogobackground": false,
         "primary_category": "Finance / Fintech",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 117,
@@ -1537,7 +1646,8 @@
         "showlogobackground": false,
         "primary_category": "Real Estate & Management",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 118,
@@ -1551,7 +1661,8 @@
         "showlogobackground": false,
         "primary_category": "Real Estate & Management",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 119,
@@ -1565,7 +1676,8 @@
         "showlogobackground": false,
         "primary_category": "Robotics",
         "secondary_category": "AI",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 120,
@@ -1579,7 +1691,8 @@
         "showlogobackground": false,
         "primary_category": "Biotech",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 121,
@@ -1593,7 +1706,8 @@
         "showlogobackground": false,
         "primary_category": "AI",
         "secondary_category": "Biotech",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 122,
@@ -1607,7 +1721,8 @@
         "showlogobackground": false,
         "primary_category": "HealthTech",
         "secondary_category": "AI",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 123,
@@ -1621,7 +1736,8 @@
         "showlogobackground": false,
         "primary_category": "Self-Driving Vehicles",
         "secondary_category": "Robotics",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 124,
@@ -1635,7 +1751,8 @@
         "showlogobackground": false,
         "primary_category": "Energy",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 125,
@@ -1649,7 +1766,8 @@
         "showlogobackground": false,
         "primary_category": "InsurTech",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 126,
@@ -1663,7 +1781,8 @@
         "showlogobackground": true,
         "primary_category": "Robotics",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 127,
@@ -1677,21 +1796,23 @@
         "showlogobackground": false,
         "primary_category": "AI",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 128,
         "sortname": "InsForge",
         "name": "InsForge",
         "description": "The agent-native AWS",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/de52713fe1552551dbe8aa2a5e60202c09bfc0d7.png",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/365d05cde45dc153baba3f6edad1e12fd88febf4.png",
         "website": "https://insforge.dev/",
         "ycpage": "https://www.ycombinator.com/companies/insforge",
         "batch": "P26",
         "showlogobackground": false,
         "primary_category": "Software / Infrastructure",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 129,
@@ -1705,7 +1826,8 @@
         "showlogobackground": false,
         "primary_category": "AI",
         "secondary_category": "Material Science",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 130,
@@ -1719,7 +1841,8 @@
         "showlogobackground": true,
         "primary_category": "Defense",
         "secondary_category": "Aerospace",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 131,
@@ -1733,7 +1856,8 @@
         "showlogobackground": false,
         "primary_category": "Data Foundry",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 132,
@@ -1747,7 +1871,8 @@
         "showlogobackground": false,
         "primary_category": "Neurotech",
         "secondary_category": "Biotech",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 133,
@@ -1761,7 +1886,8 @@
         "showlogobackground": false,
         "primary_category": "InsurTech",
         "secondary_category": "HealthTech",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 134,
@@ -1775,7 +1901,8 @@
         "showlogobackground": false,
         "primary_category": "Finance / Fintech",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 135,
@@ -1789,7 +1916,8 @@
         "showlogobackground": false,
         "primary_category": "Robotics",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 136,
@@ -1803,7 +1931,8 @@
         "showlogobackground": false,
         "primary_category": "HealthTech",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
     },
     {
         "id": 137,
@@ -1817,6 +1946,142 @@
         "showlogobackground": false,
         "primary_category": "Software / Infrastructure",
         "secondary_category": "",
-        "status": "active"
+        "status": "active",
+        "fund": "Fund I"
+    },
+    {
+        "id": 138,
+        "sortname": "isoquant",
+        "name": "isoquant",
+        "description": "Self-optimizing inference cloud for 4x faster open models",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2393ff6f2bb8fa724b4d08301f7b560ba116be78.png",
+        "website": "https://isoquant.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/isoquant",
+        "batch": "F26",
+        "showlogobackground": false,
+        "primary_category": "Software / Infrastructure",
+        "secondary_category": "AI",
+        "status": "active",
+        "fund": "Fund II"
+    },
+    {
+        "id": 139,
+        "sortname": "ChampionEffect Inc.",
+        "name": "ChampionEffect Inc.",
+        "description": "An AI coach for every employee!",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2386602bfda42032649bbf371ee6b886ac1fd56d.png",
+        "website": "https://championeffect.com/",
+        "ycpage": "https://www.ycombinator.com/companies/championeffect-inc",
+        "batch": "F26",
+        "showlogobackground": false,
+        "primary_category": "EdTech",
+        "secondary_category": "AI",
+        "status": "active",
+        "fund": "Fund II"
+    },
+    {
+        "id": 140,
+        "sortname": "Aikido Technologies",
+        "name": "Aikido Technologies",
+        "description": "Clean marine AI datacenters",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/ffb13551195295abd4b5ab3d0ecce6ac89addccd.png",
+        "website": "https://www.aikidotechnologies.com/",
+        "ycpage": "https://www.ycombinator.com/companies/aikido-technologies",
+        "batch": "F26",
+        "showlogobackground": false,
+        "primary_category": "Datacenter",
+        "secondary_category": "Energy",
+        "status": "active",
+        "fund": "Fund II"
+    },
+    {
+        "id": 141,
+        "sortname": "Mantle",
+        "name": "Mantle",
+        "description": "The pit crew for machines and robots.",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/7073e1cf7c2495368d081bd479283a8c160179f2.png",
+        "website": "https://www.mantlemachines.com/",
+        "ycpage": "https://www.ycombinator.com/companies/mantle-2",
+        "batch": "F26",
+        "showlogobackground": false,
+        "primary_category": "Robotics",
+        "secondary_category": "Manufacturing",
+        "status": "active",
+        "fund": "Fund II"
+    },
+    {
+        "id": 142,
+        "sortname": "Edgerun",
+        "name": "Edgerun",
+        "description": "Military exoskeletons",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8fb84bc8b7f8d02b776dec7685bbaf102fdadf1c.png",
+        "website": "https://edgerun.com/",
+        "ycpage": "https://www.ycombinator.com/companies/edgerun",
+        "batch": "S26",
+        "showlogobackground": false,
+        "primary_category": "Defense",
+        "secondary_category": "Robotics",
+        "status": "active",
+        "fund": "Fund II"
+    },
+    {
+        "id": 143,
+        "sortname": "IMPACT Drones",
+        "name": "IMPACT Drones",
+        "description": "Air Defense as a Service for Civilian Infrastructure.",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/c7df3a5c9dfd6e7d9865e24f95f172c997a7183b.png",
+        "website": "https://www.impact-drones.com/",
+        "ycpage": "https://www.ycombinator.com/companies/impact-drones",
+        "batch": "S26",
+        "showlogobackground": false,
+        "primary_category": "Defense",
+        "secondary_category": "Aerospace",
+        "status": "active",
+        "fund": "Fund II"
+    },
+    {
+        "id": 144,
+        "sortname": "Ethos Space Resources",
+        "name": "Ethos Space Resources",
+        "description": "We make silicon on the Moon, to power everything in space.",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/26c677c7621160c55e8011d6851971173fe4f8e9.png",
+        "website": "https://ethos-space.com/",
+        "ycpage": "https://www.ycombinator.com/companies/ethos-space-resources",
+        "batch": "S26",
+        "showlogobackground": false,
+        "primary_category": "Aerospace",
+        "secondary_category": "Energy",
+        "status": "active",
+        "fund": "Fund II"
+    },
+    {
+        "id": 145,
+        "sortname": "Karia",
+        "name": "Karia",
+        "description": "Stealth",
+        "logo": "https://raw.githubusercontent.com/rhavlickmm/qrcodewebsite/refs/heads/main/logos/BlackStar.jpeg",
+        "website": "https://karia-ai.com/",
+        "ycpage": "https://karia-ai.com/",
+        "batch": "Non YC",
+        "showlogobackground": false,
+        "primary_category": "AI",
+        "secondary_category": "",
+        "status": "active",
+        "fund": "Fund II"
+    },
+    {
+        "id": 146,
+        "sortname": "Duet Labs",
+        "name": "Duet Labs",
+        "description": "A data layer for human collaboration: workflow intelligence for operators and training data for robots",
+        "logo": "https://raw.githubusercontent.com/rhavlickmm/qrcodewebsite/refs/heads/main/logos/BlackStar.jpeg",
+        "website": "https://www.duetlabs.co/",
+        "ycpage": "https://www.duetlabs.co/",
+        "batch": "Non YC",
+        "showlogobackground": false,
+        "primary_category": "Robotics",
+        "secondary_category": "Data Foundry",
+        "status": "active",
+        "fund": "Fund II"
     }
 ]
