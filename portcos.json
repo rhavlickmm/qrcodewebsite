@@ -406,12 +406,12 @@
     },
     {
         "id": 29,
-        "sortname": "Revi",
-        "name": "Revi",
-        "description": "AI-enabled M&A deal origination",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/5c5e4db7724db9cc411212c0a36b0c2b276b67e7.png",
-        "website": "https://www.revi.ai/",
-        "ycpage": "https://www.ycombinator.com/companies/revi",
+        "sortname": "Thornwick",
+        "name": "Thornwick",
+        "description": "Buy-side M&A Advisory",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/834fa22f6fad1635c308f38a01ebe252b9ea9b26.png",
+        "website": "https://thornwick.com/",
+        "ycpage": "https://www.ycombinator.com/companies/thornwick",
         "batch": "F24",
         "showlogobackground": false,
         "primary_category": "Private Equity",
@@ -1031,7 +1031,7 @@
         "showlogobackground": false,
         "primary_category": "Real Estate & Management",
         "secondary_category": null,
-        "status": "active",
+        "status": "inactive",
         "fund": "Fund I"
     },
     {
