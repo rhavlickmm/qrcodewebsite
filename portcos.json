@@ -1965,21 +1965,6 @@
         "fund": "Fund II"
     },
     {
-        "id": 139,
-        "sortname": "ChampionEffect Inc.",
-        "name": "ChampionEffect Inc.",
-        "description": "An AI coach for every employee!",
-        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2386602bfda42032649bbf371ee6b886ac1fd56d.png",
-        "website": "https://championeffect.com/",
-        "ycpage": "https://www.ycombinator.com/companies/championeffect-inc",
-        "batch": "F26",
-        "showlogobackground": false,
-        "primary_category": "EdTech",
-        "secondary_category": "AI",
-        "status": "active",
-        "fund": "Fund II"
-    },
-    {
         "id": 140,
         "sortname": "Aikido Technologies",
         "name": "Aikido Technologies",
