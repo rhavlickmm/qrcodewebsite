@@ -2083,5 +2083,53 @@
         "secondary_category": "Data Foundry",
         "status": "active",
         "fund": "Fund II"
+    },
+    {
+        "id": 147,
+        "sortname": "Perit.AI",
+        "name": "Perit.AI",
+        "description": "Expert-collected voice, egocentric and RL training data for frontier…",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/a35e9e2f6026717a2640d1e01b9215eaff2d4310.png",
+        "website": "https://www.perit.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/peritai",
+        "batch": "F26",
+        "showlogobackground": false,
+        "primary_category": "Data Foundry",
+        "secondary_category": "",
+        "status": "active",
+        "fund": "Fund II"
+    },
+    {
+        "id": 148,
+        "sortname": "ChampionEffect Inc.",
+        "name": "ChampionEffect Inc.",
+        "description": "An AI coach for every employee!",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/2386602bfda42032649bbf371ee6b886ac1fd56d.png",
+        "website": "https://championeffect.com",
+        "ycpage": "https://www.ycombinator.com/companies/championeffect-inc",
+        "batch": "F26",
+        "showlogobackground": false,
+        "primary_category": "Education",
+        "secondary_category": "",
+        "status": "active",
+        "fund": "Fund II"
+    },
+    {
+        "id": 149,
+        "sortname": "Liquid Energy",
+        "name": "Liquid Energy",
+        "description": "Self contained solar-powered AI inference modules: the NanoDC",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0cd0771f97af67208bd0d5a30aaee3a43988fec3.png",
+        "website": "https://www.liquidenergy.world/",
+        "ycpage": "https://www.ycombinator.com/companies/liquid-energy",
+        "batch": "F26",
+        "showlogobackground": false,
+        "primary_category": "Datacenter",
+        "secondary_category": "",
+        "status": "active",
+        "fund": "Fund II"
     }
+
+    
+    
 ]
